@@ -1,13 +1,15 @@
 // POSTROCK JAPAN - shared logic
 const DB = { events: [], artists: [], venues: [] };
 
+const EVENT_FILES = ['data/events-2026-h1.json', 'data/events-2026-h2.json', 'data/events-2027.json'];
 async function loadDB() {
-  const [e, a, v] = await Promise.all([
-    fetch('data/events.json').then(r => r.json()),
+  const parts = await Promise.all(EVENT_FILES.map(f =>
+    fetch(f).then(r => (r.ok ? r.json() : [])).catch(() => [])));
+  const [a, v] = await Promise.all([
     fetch('data/artists.json').then(r => r.json()),
     fetch('data/venues.json').then(r => r.json())
   ]);
-  DB.events = e; DB.artists = a; DB.venues = v;
+  DB.events = parts.flat(); DB.artists = a; DB.venues = v;
 }
 const artistById = id => DB.artists.find(a => a.id === id);
 const venueById = id => DB.venues.find(v => v.id === id);
