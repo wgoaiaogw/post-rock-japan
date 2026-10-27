@@ -16,18 +16,53 @@
     <a href="venues.html">会場</a>
   </nav>
 </header>
-<main id="main"><p class="empty">読み込み中…</p></main>
+<main>
+  <h1>アーティスト一覧</h1>
+  <div class="filters">
+    <input id="q" type="search" placeholder="アーティスト名で検索" style="background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:6px;padding:7px 10px;font-size:14px;min-width:220px">
+    <select id="f-genre"><option value="">すべてのジャンル</option></select>
+  </div>
+  <div id="main"><p class="empty">読み込み中…</p></div>
+  <div class="card">
+    <strong>このサイトの分類について</strong>
+    <p class="sub" style="margin:6px 0 0">アーティストのジャンル表記は、各アーティストの公式プロフィールや百科事典における定性（スタイルの定義）に基づきます。同じ公演への出演や同じレーベルへの所属だけをもって「ポストロック」とは表記しません。他ジャンルが主体のアーティストは「共演・関連」に本来のジャンル名で掲載しています。</p>
+  </div>
+</main>
 <footer class="site">POSTROCK JAPAN — 公演情報は各公式発表に基づきます。最新情報は公式サイトでご確認ください。</footer>
 <script src="assets/app.js"></script>
 <script>
+const TIERS = [
+  ['core', 'ポストロック'],
+  ['math-inst', 'マスロック／インストゥルメンタル'],
+  ['related', '共演・関連アーティスト']
+];
 loadDB().then(() => {
   const el = document.getElementById('main');
-  const items = [...DB.artists].sort((a, b) => a.name.localeCompare(b.name)).map(a => {
-    const n = upcomingEvents(ev => (ev.artist_ids || []).includes(a.id)).length;
-    return `<li><a href="artist.html?id=${encodeURIComponent(a.id)}">${esc(a.name)}</a>
-      <span class="sub">${esc(a.country || '')} ${(a.genre_tags || []).length ? '／ ' + esc(a.genre_tags.join(' / ')) : ''} ／ 今後の公演 ${n} 件</span></li>`;
-  }).join('');
-  el.innerHTML = `<h1>アーティスト一覧</h1><ul class="list-simple">${items || '<li class="empty">まだ登録がありません。</li>'}</ul>`;
+  const q = document.getElementById('q'), fg = document.getElementById('f-genre');
+  const genres = [...new Set(DB.artists.flatMap(a => a.genre_tags || []))].sort();
+  genres.forEach(g => fg.insertAdjacentHTML('beforeend', `<option>${g}</option>`));
+  const draw = () => {
+    const kw = q.value.trim().toLowerCase();
+    const match = a => (!kw || a.name.toLowerCase().includes(kw))
+      && (!fg.value || (a.genre_tags || []).includes(fg.value));
+    let html = '';
+    for (const [tier, label] of TIERS) {
+      const list = DB.artists.filter(a => (a.tier || 'related') === tier && match(a))
+        .sort((x, y) => x.name.localeCompare(y.name));
+      if (!list.length) continue;
+      html += `<div class="month-head">${label}（${list.length}）</div><ul class="list-simple">`;
+      for (const a of list) {
+        const n = upcomingEvents(ev => (ev.artist_ids || []).includes(a.id)).length;
+        html += `<li><a href="artist.html?id=${encodeURIComponent(a.id)}">${esc(a.name)}</a>
+          <span class="sub">${(a.genre_tags || []).length ? esc(a.genre_tags.join(' / ')) + ' ／ ' : ''}今後の公演 ${n} 件</span></li>`;
+      }
+      html += '</ul>';
+    }
+    el.innerHTML = html || '<p class="empty">該当するアーティストがありません。</p>';
+  };
+  q.addEventListener('input', draw);
+  fg.addEventListener('change', draw);
+  draw();
 });
 </script>
 </body>
