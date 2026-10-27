@@ -79,5 +79,485 @@
   "access": "大手町駅直結",
   "capacity": null,
   "official_url": "https://www.otemachihall.jp/"
+ },
+ {
+  "id": "246-gabu",
+  "name": "246ライブハウスGABU",
+  "area": "大阪府",
+  "address": "大阪府大阪市淀川区 1-7-27 サンポードシティビル4F",
+  "access": "阪急電鉄 十三駅",
+  "capacity": "600",
+  "official_url": "https://widewindows.com/gabu/",
+  "source_note": "公式サイトはwidewindows.com/gabu（見出し『246ライブハウスGABU｜十三・大阪』）。住所は同会場のプレイス情報による（町名は出典表記から特定できず、十三エリアの1-7-27）。収容人数約600人はチケットサークルの会場情報による（同資料では西中島南方・南方駅からも徒歩圏と案内）。"
+ },
+ {
+  "id": "ex",
+  "name": "EXシアター六本木",
+  "area": "東京都",
+  "address": "〒106-0031 東京都港区西麻布1-2-9 EXタワー",
+  "access": "東京メトロ日比谷線・都営大江戸線「六本木駅」徒歩5分",
+  "capacity": "1746",
+  "official_url": "http://www.ex-theater.com/",
+  "source_note": "official_url は会場公式サイト（トップページを実際に開いて確認）。住所・最寄り駅・収容人数は日本語版Wikipedia「EX THEATER ROPPONGI」による（公式サイトはJS主体でテキスト抽出できなかったため）。capacity はスタンディング時の1746人（シート時は920席）"
+ },
+ {
+  "id": "heaven-s-rock-kumagaya-vj-1",
+  "name": "HEAVEN'S ROCK Kumagaya VJ-1",
+  "area": "埼玉県",
+  "address": "埼玉県熊谷市筑波1-130",
+  "access": "JR熊谷駅北口 徒歩7〜10分",
+  "capacity": "350",
+  "official_url": "https://www.heavensrock.com/kumagaya/",
+  "source_note": "住所は同会場のプレイス情報による。最寄り駅・収容人数（オールスタンディング約350名）はWACCA MUSIC SCHOOLの会場紹介記事による。"
+ },
+ {
+  "id": "kt-zepp-yokohama",
+  "name": "KT Zepp Yokohama",
+  "area": "神奈川県",
+  "address": "〒220-0012 神奈川県横浜市西区みなとみらい4-3-6",
+  "access": "新高島駅（みなとみらい線）徒歩2分",
+  "capacity": "2,146（スタンディング時）",
+  "official_url": "https://www.zepp.co.jp/hall/yokohama/",
+  "source_note": "Zepp公式サイトおよび横浜市公式観光情報等の公開資料"
+ },
+ {
+  "id": "kyoto-muse",
+  "name": "KYOTO MUSE",
+  "area": "京都府",
+  "address": "京都市中京区立売中之町102-3",
+  "access": null,
+  "capacity": null,
+  "official_url": "http://muse-live.com/kyoto/",
+  "source_note": "公式サイトはMUSE系列サイト（muse-live.com/kyoto）。住所は同会場のプレイス情報による（町名表記は未検証）。収容人数・最寄り駅は確実な出典が得られずnull。"
+ },
+ {
+  "id": "liquidroom",
+  "name": "LIQUIDROOM",
+  "area": "東京都",
+  "address": "〒150-0011 東京都渋谷区東3-16-6",
+  "access": "JR山手線・東京メトロ日比谷線「恵比寿駅」徒歩3分",
+  "capacity": "1000",
+  "official_url": "https://www.liquidroom.net/",
+  "source_note": "公演確認は会場公式スケジュールページ。住所・最寄り駅・収容人数（オールスタンディング約1,000人）は日本語版Wikipedia「LIQUIDROOM」等の公開情報による。"
+ },
+ {
+  "id": "live-house-cb",
+  "name": "LIVE HOUSE CB",
+  "area": "福岡県",
+  "address": "福岡県福岡市中央区長浜3-1-13",
+  "access": "西鉄福岡（天神）駅 徒歩約15分",
+  "capacity": "250",
+  "official_url": "https://www.livehousecb.com/",
+  "source_note": "住所はCLIP MAGAZINEの公演記事および会場案内記事による。最寄り駅は会場公式案内に基づく紹介記事（西鉄福岡天神駅より徒歩約15分）による。収容人数約250人はMemboの会場紹介による。"
+ },
+ {
+  "id": "live-house-j",
+  "name": "LIVE HOUSE J",
+  "area": "長野県",
+  "address": "長野県長野市南千歳町826 C-oneビルB1F",
+  "access": "JR長野駅西口 徒歩3分",
+  "capacity": "250",
+  "official_url": "http://livehousej.com/",
+  "source_note": "住所はenjoy-live.netの会場情報（長野市南千歳町826 C-oneビルB1F）による。最寄り駅・収容人数約250人はMemboの長野会場ガイドによる。"
+ },
+ {
+  "id": "live-house-anima",
+  "name": "Live House ANIMA",
+  "area": "大阪府",
+  "address": "大阪府大阪市中央区西心斎橋2-10-21 スパジオビルB1F",
+  "access": null,
+  "capacity": null,
+  "official_url": "https://liveanima.jp/",
+  "source_note": "住所はLivePocket公演ページおよび会場公式サイトで確認。キャパシティと最寄り駅の公式数値は確認できなかったためnull。"
+ },
+ {
+  "id": "spotify-o-west",
+  "name": "Spotify O-WEST",
+  "area": "東京都",
+  "address": "〒150-0044 東京都渋谷区円山町2-3 O-WESTビル2F",
+  "access": "渋谷駅",
+  "capacity": "600（スタンディング時）",
+  "official_url": "https://shibuya-o.com/west/",
+  "source_note": "Shibuya O-Group公式サイト等の公開資料"
+ },
+ {
+  "id": "spotify-o-nest",
+  "name": "Spotify O-nest",
+  "area": "東京都",
+  "address": "東京都渋谷区円山町2-3 O-WESTビル 5-6F",
+  "access": "神泉駅／渋谷駅",
+  "capacity": "250",
+  "official_url": "https://shibuya-o.com/nest/",
+  "source_note": "所在地は会場公式サイト（shibuya-o.com）の利用規約・施設資料による。収容人数250名（スタンディング）はWikipedia「Shibuya O-WEST」のO-nest項目による。"
+ },
+ {
+  "id": "tachikawa-stage-garden",
+  "name": "TACHIKAWA STAGE GARDEN",
+  "area": "東京都",
+  "address": "〒190-0014 東京都立川市緑町3-3 GREEN SPRINGS N1",
+  "access": "立川駅（JR）徒歩8分／立川北駅（多摩モノレール）徒歩7分",
+  "capacity": "3,018（最大収容人員）",
+  "official_url": "https://www.t-sg.jp/",
+  "source_note": "施設公式発表資料およびWikipedia「TACHIKAWA STAGE GARDEN」"
+ },
+ {
+  "id": "wall-wall",
+  "name": "WALL&WALL",
+  "area": "東京都",
+  "address": "東京都港区南青山3-18-19 フェスタ表参道ビルB1F",
+  "access": "表参道駅 徒歩1分",
+  "capacity": "約200（公式サイトのライブプラン上限人数）",
+  "official_url": "http://wallwall.tokyo/",
+  "source_note": "会場公式サイトおよびZAIKO公演ページ"
+ },
+ {
+  "id": "yebisuya-pro",
+  "name": "YEBISUYA PRO",
+  "area": "岡山県",
+  "address": "〒700-0821 岡山県岡山市北区中山下1-10-30 福武ジョリービル B2F",
+  "access": null,
+  "capacity": null,
+  "official_url": "https://yebisuyapro.jp/",
+  "source_note": "住所は会場公式サイトおよびTIGET公演ページで確認。最寄り駅・収容人数は公式資料で確認できずnull"
+ },
+ {
+  "id": "yogibo-holy-mountain",
+  "name": "Yogibo HOLY MOUNTAIN",
+  "area": "大阪府",
+  "address": "大阪府大阪市浪速区難波中2-11-1",
+  "access": "なんば駅（南海）南改札口より徒歩5分",
+  "capacity": "240（スタンディング最大）",
+  "official_url": "https://selebro.co.jp/holymountain/",
+  "source_note": "運営SELEBRO公式発表（PR TIMES）およびYogibo公式発表"
+ },
+ {
+  "id": "yogibo-meta-valley",
+  "name": "Yogibo META VALLEY",
+  "area": "大阪府",
+  "address": "大阪府大阪市浪速区難波中2-11-1",
+  "access": "なんば駅（南海）南改札口より徒歩5分",
+  "capacity": "600（スタンディング最大）",
+  "official_url": "https://selebro.co.jp/metavalley/",
+  "source_note": "運営SELEBRO公式発表（PR TIMES）およびYogibo公式発表"
+ },
+ {
+  "id": "zepp-haneda",
+  "name": "Zepp Haneda",
+  "area": "東京都",
+  "address": "〒144-0041 東京都大田区羽田空港1-1-4 HANEDA INNOVATION CITY",
+  "access": "天空橋駅（京急空港線・東京モノレール）",
+  "capacity": "2,925（スタンディング時）",
+  "official_url": "https://www.zepp.co.jp/hall/haneda/",
+  "source_note": "Zepp公式サイト等の公開資料"
+ },
+ {
+  "id": "zepp-namba",
+  "name": "Zepp Namba",
+  "area": "大阪府",
+  "address": "〒556-0012 大阪府大阪市浪速区敷津東2-1-39",
+  "access": "なんば駅（南海・Osaka Metro）／恵美須町駅（Osaka Metro堺筋線）",
+  "capacity": "約2,500（スタンディング時。資料により2,513／2,530の表記差あり）",
+  "official_url": "https://www.zepp.co.jp/hall/namba/",
+  "source_note": "Zepp公式サイトおよび大阪観光局OSAKA-INFO"
+ },
+ {
+  "id": "zepp-shinjuku",
+  "name": "Zepp Shinjuku",
+  "area": "東京都",
+  "address": "〒160-0021 東京都新宿区歌舞伎町1-29-1 東急歌舞伎町タワー B1F〜B4F",
+  "access": "西武新宿駅 徒歩1分／新宿駅 徒歩7分",
+  "capacity": "1,500（スタンディング時）",
+  "official_url": "https://www.zepp.co.jp/hall/shinjuku/",
+  "source_note": "Zepp公式サイトおよび歌舞伎町公式ポータル"
+ },
+ {
+  "id": "duo-music-exchange",
+  "name": "duo MUSIC EXCHANGE",
+  "area": "東京都",
+  "address": "東京都渋谷区道玄坂2-14-8",
+  "access": "渋谷駅",
+  "capacity": "700",
+  "official_url": null,
+  "source_note": "住所・キャパシティ（スタンディング700人）は会場ガイド（LiveCrew会場一覧）による。Spotify O-EASTと同一ビル内。"
+ },
+ {
+  "id": "stiffslack-venue",
+  "name": "stiffslack VENUE",
+  "area": "愛知県",
+  "address": "愛知県名古屋市北区清水2-5-8",
+  "access": "清水駅（名鉄瀬戸線、徒歩1分）",
+  "capacity": null,
+  "official_url": "https://www.stiffslack.com/venue/202607.html?date=20260706",
+  "source_note": "最寄駅は会場公式スケジュールページ本文（「名鉄瀬戸線清水駅真下・駅から徒歩1分」）による。所在地はstiffslack公式ドメインの場所情報による。収容人数は公式ページ未載のためnull。official_urlは実際に確認した公式スケジュールページを記載。"
+ },
+ {
+  "id": "venue",
+  "name": "インテックス大阪",
+  "area": "大阪府",
+  "address": "大阪府大阪市住之江区南港北1-5-102",
+  "access": "中ふ頭駅",
+  "capacity": null,
+  "official_url": "https://www.intex-osaka.com",
+  "source_note": "住所・公式サイトは施設情報で確認。展示施設のためライブ会場としてのキャパシティは設定がなくnull。KOYABU SONIC 2026では4号館・5号館を使用。"
+ },
+ {
+  "id": "venue-2",
+  "name": "ビルボードライブ東京",
+  "area": "東京都",
+  "address": "東京都港区赤坂9丁目7番4号 東京ミッドタウン ガーデンテラス4F",
+  "access": "六本木駅",
+  "capacity": null,
+  "official_url": null,
+  "source_note": "住所はBillboard Live公式サイトの公演ページ（Access欄）で確認。東京ミッドタウン内。着席型クラブのためスタンディング換算のキャパシティは設定がなくnull。"
+ },
+ {
+  "id": "era",
+  "name": "下北沢ERA",
+  "area": "東京都",
+  "address": "〒155-0031 東京都世田谷区北沢2-34-5 プリマヴェール下北沢4F",
+  "access": "下北沢駅 東口より徒歩3分",
+  "capacity": "200（スタンディング）",
+  "official_url": "http://s-era.jp/",
+  "source_note": "会場公式サイトおよびLiveCrew会場資料"
+ },
+ {
+  "id": "shelter",
+  "name": "下北沢SHELTER",
+  "area": "東京都",
+  "address": "〒155-0031 東京都世田谷区北沢2-6-10 仙田ビルB1",
+  "access": "下北沢駅 徒歩3分",
+  "capacity": "250",
+  "official_url": null,
+  "source_note": "住所は日本語版Wikipedia「ロフト（ライブハウス）」およびイープラスのSHELTER 35周年特設ページ（下北沢駅徒歩3分）による。収容人数約250人はNEWSjpの会場紹介記事による。会場公式サイトURLは未確認のためofficial_urlはnull。"
+ },
+ {
+  "id": "macana",
+  "name": "仙台MACANA",
+  "area": "宮城県",
+  "address": "宮城県仙台市青葉区一番町2-5-1 大一野村ビルB1F",
+  "access": "仙台市地下鉄東西線「青葉通一番町駅」徒歩1分",
+  "capacity": "250",
+  "official_url": "http://macana.net/",
+  "source_note": "住所・収容人数250人・アクセスはMemboの仙台会場ガイドおよび『ねずふぇす』の会場一覧による。"
+ },
+ {
+  "id": "pit",
+  "name": "仙台PIT",
+  "area": "宮城県",
+  "address": "宮城県仙台市太白区あすと長町2-2-50",
+  "access": "長町駅（JR東北本線）徒歩5分／長町駅（仙台市営地下鉄）徒歩6分",
+  "capacity": "1,451（スタンディング時）",
+  "official_url": "https://sendai.pia-pit.jp/",
+  "source_note": "ぴあ株式会社公式サイト（ホール・劇場事業ページ）の施設概要"
+ },
+ {
+  "id": "darwin",
+  "name": "仙台darwin",
+  "area": "宮城県",
+  "address": "宮城県仙台市青葉区一番町3-9-13 DATE ONEビルB1F",
+  "access": "広瀬通駅",
+  "capacity": "367",
+  "official_url": "https://www.edward.co.jp/theater/",
+  "source_note": "住所・最寄り駅は会場ガイドで確認（運営はedward）。キャパシティ367人（スタンディング）は会場ガイド複数ソースによる。"
+ },
+ {
+  "id": "club-quattro",
+  "name": "名古屋CLUB QUATTRO",
+  "area": "愛知県",
+  "address": "〒460-0008 愛知県名古屋市中区栄3-29-1 名古屋パルコ東館8F",
+  "access": "名古屋市営地下鉄名城線「矢場町駅」下車すぐ",
+  "capacity": "550",
+  "official_url": "https://www.club-quattro.com/nagoya/",
+  "source_note": "住所・アクセスは会場公式スケジュールページ記載。収容人数550人は日本語版Wikipedia「CLUB QUATTRO」による。"
+ },
+ {
+  "id": "club-ex",
+  "name": "品川プリンスホテル Club eX",
+  "area": "東京都",
+  "address": "東京都港区高輪4-10-30 品川プリンスホテル アネックスタワー3F",
+  "access": "品川駅（高輪口より徒歩5分）",
+  "capacity": "450",
+  "official_url": "http://www.princehotels.co.jp/shinagawa/clubex/",
+  "source_note": "所在地・最寄駅は品川プリンスホテル公式案内に基づく会場情報（場所情報および会場案内ブログで確認）。収容人数450名はGLOBAL PRODUCEの会場紹介ページ（円形シアター形式）によるため、座席配置により変動する。"
+ },
+ {
+  "id": "venue-3",
+  "name": "岐阜市文化センター",
+  "area": "岐阜県",
+  "address": "岐阜県岐阜市金町5-7-2",
+  "access": null,
+  "capacity": null,
+  "official_url": "http://gifu-culture.info/",
+  "source_note": "所在地は施設公式サイト（gifu-culture.info）の場所情報による。最寄駅・収容人数は公式ページ本文で確認できなかったためnull（OOPARTS 2026は同施設内のBUNKA ARENA／KOGANE STAGEを使用）。"
+ },
+ {
+  "id": "image",
+  "name": "岡山IMAGE",
+  "area": "岡山県",
+  "address": "〒700-0822 岡山県岡山市北区表町1-8-48",
+  "access": null,
+  "capacity": "250",
+  "official_url": "http://www.img-music.jp/",
+  "source_note": "住所・収容人数（スタンディング最大250人）はJUNGLE☆LIFE掲載の会場紹介（店舗情報）による。最寄り駅は同出典で確認できずnull。"
+ },
+ {
+  "id": "fever",
+  "name": "新代田FEVER",
+  "area": "東京都",
+  "address": "東京都世田谷区羽根木1-1-14",
+  "access": "新代田駅",
+  "capacity": "300",
+  "official_url": "http://www.fever-popo.com/",
+  "source_note": "住所・最寄り駅・キャパシティ300人は会場ガイド（LiveCrew会場一覧等）による。"
+ },
+ {
+  "id": "venue-4",
+  "name": "服部緑地野外音楽堂",
+  "area": "大阪府",
+  "address": "大阪府豊中市服部緑地1-7",
+  "access": "緑地公園駅（北大阪急行電鉄南北線）",
+  "capacity": "2700",
+  "official_url": null,
+  "source_note": "所在地・最寄駅・客席数（固定椅子席1,700人＋芝生席1,000人＝最大2,700名）はWikipedia「服部緑地野外音楽堂」による。公園公式サイト内の野外音楽堂ページURLは未検証のためofficial_urlはnull。"
+ },
+ {
+  "id": "venue-5",
+  "name": "札幌近松",
+  "area": "北海道",
+  "address": "北海道札幌市中央区南4条西14丁目",
+  "access": null,
+  "capacity": "300",
+  "official_url": null,
+  "source_note": "2025年夏にオープンした東京・下北沢近松の系列店。所在地（札幌市中央区南4条西14丁目）・収容人数300人はニコニコニュース（Skream!配信）の開店記事による。公式サイトURL・最寄り駅は未確認のためnull。"
+ },
+ {
+  "id": "club-quattro-2",
+  "name": "梅田CLUB QUATTRO",
+  "area": "大阪府",
+  "address": "〒530-0051 大阪府大阪市北区太融寺町8-17 プラザ梅田10F",
+  "access": "JR大阪駅／阪急・阪神・Osaka Metro梅田駅 徒歩約7分",
+  "capacity": "650",
+  "official_url": "https://www.club-quattro.com/umeda/",
+  "source_note": "住所は会場公式スケジュールページ（梅田CLUB QUATTRO公式サイト）記載。収容人数650人は日本語版Wikipedia「CLUB QUATTRO」による。"
+ },
+ {
+  "id": "venue-6",
+  "name": "海の中道海浜公園 野外劇場",
+  "area": "福岡県",
+  "address": "福岡県福岡市東区大字西戸崎18-25（国営海の中道海浜公園内）",
+  "access": "海ノ中道駅（JR香椎線）下車すぐ",
+  "capacity": null,
+  "official_url": "http://www.uminaka.go.jp/",
+  "source_note": "公園公式情報およびCIRCLE主催側発表資料。野外劇場単体の収容人数は公式資料で確認できずnull"
+ },
+ {
+  "id": "club-quattro-3",
+  "name": "渋谷CLUB QUATTRO",
+  "area": "東京都",
+  "address": "東京都渋谷区宇田川町32-13 4F",
+  "access": "渋谷駅 徒歩7分",
+  "capacity": "800",
+  "official_url": "https://www.club-quattro.com/shibuya/",
+  "source_note": "所在地はCLUB QUATTRO各店比較記事（ライブガイドドッグ）および日本語版Wikipediaによる。収容人数はWikipedia記載の800人（約750人とする資料もあり）。"
+ },
+ {
+  "id": "harbor-studio",
+  "name": "神戸 Harbor Studio",
+  "area": "兵庫県",
+  "address": "兵庫県神戸市中央区波止場町6-3",
+  "access": null,
+  "capacity": null,
+  "official_url": "http://harbor-studio.net/",
+  "source_note": "所在地は会場公式サイト（harbor-studio.net）のニュース記事内に記載の住所（〒650-0042 兵庫県神戸市中央区波止場町6-3）による。最寄駅・通常収容人数は公式サイト本文で確認できなかったためnull（公式サイトには感染症対策時の人数制限250名の記載のみ）。"
+ },
+ {
+  "id": "venue-7",
+  "name": "舞洲スポーツアイランド",
+  "area": "大阪府",
+  "address": "大阪府大阪市此花区北港緑地2-3-75",
+  "access": null,
+  "capacity": null,
+  "official_url": "http://maishima.jp/",
+  "source_note": "住所・公式サイトは施設情報で確認。OSAKA GIGANTIC MUSIC FESTIVAL 2026では敷地内のジャイガ特設会場として使用。特設会場のためキャパシティはnull、最寄り駅は公式アクセス案内（バス利用）を確認できなかったためnull。"
+ },
+ {
+  "id": "synchronicity26-shibuya",
+  "name": "SYNCHRONICITY'26 渋谷12会場",
+  "area": "東京都",
+  "address": null,
+  "access": "Spotify O-EAST / O-WEST / O-nest / duo MUSIC EXCHANGE / clubasia / 7thFLOOR / SHIBUYA CLUB QUATTRO / Veats Shibuya / WWW / WWWX / TOKIO TOKYO / SHIBUYA FOWS",
+  "capacity": null,
+  "official_url": null,
+  "source_note": "フェスティバル全体の会場群。各アーティストの出演会場は公式タイムテーブルで確定できなかったため、会場群として記録。"
+ },
+ {
+  "id": "spotify-o-east-bf",
+  "name": "Spotify O-EAST 他（渋谷サーキット）",
+  "area": "東京都",
+  "address": null,
+  "access": null,
+  "capacity": null,
+  "official_url": null,
+  "source_note": "複合会場／サーキット形式、または会場詳細が公式情報で確定できなかったため、名称と地域のみ記録。"
+ },
+ {
+  "id": "stage-garden-bf",
+  "name": "立川 STAGE GARDEN",
+  "area": "東京都",
+  "address": null,
+  "access": null,
+  "capacity": null,
+  "official_url": null,
+  "source_note": "複合会場／サーキット形式、または会場詳細が公式情報で確定できなかったため、名称と地域のみ記録。"
+ },
+ {
+  "id": "spotify-o-east-duo-music-exchange-bf",
+  "name": "Spotify O-EAST / duo MUSIC EXCHANGE",
+  "area": "東京都",
+  "address": null,
+  "access": null,
+  "capacity": null,
+  "official_url": null,
+  "source_note": "複合会場／サーキット形式、または会場詳細が公式情報で確定できなかったため、名称と地域のみ記録。"
+ },
+ {
+  "id": "venue-x-bf",
+  "name": "舞洲スポーツアイランド（ジャイガ特設会場）",
+  "area": "大阪府",
+  "address": null,
+  "access": null,
+  "capacity": null,
+  "official_url": null,
+  "source_note": "複合会場／サーキット形式、または会場詳細が公式情報で確定できなかったため、名称と地域のみ記録。"
+ },
+ {
+  "id": "4-5-bf",
+  "name": "インテックス大阪（4号館・5号館）",
+  "area": "大阪府",
+  "address": null,
+  "access": null,
+  "capacity": null,
+  "official_url": null,
+  "source_note": "複合会場／サーキット形式、または会場詳細が公式情報で確定できなかったため、名称と地域のみ記録。"
+ },
+ {
+  "id": "yogibo-holy-mountain-meta-valley-bf",
+  "name": "Yogibo Holy Mountain & Meta Valley",
+  "area": "大阪府",
+  "address": null,
+  "access": null,
+  "capacity": null,
+  "official_url": null,
+  "source_note": "複合会場／サーキット形式、または会場詳細が公式情報で確定できなかったため、名称と地域のみ記録。"
+ },
+ {
+  "id": "spotify-o-east-spotify-o-west-bf",
+  "name": "Spotify O-EAST / Spotify O-WEST",
+  "area": "東京都",
+  "address": null,
+  "access": null,
+  "capacity": null,
+  "official_url": null,
+  "source_note": "複合会場／サーキット形式、または会場詳細が公式情報で確定できなかったため、名称と地域のみ記録。"
  }
 ]

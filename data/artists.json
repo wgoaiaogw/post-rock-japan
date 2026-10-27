@@ -196,5 +196,221 @@
   "intro": "2018年7月5日に東京で結成された4人組ロックバンド（北、中野、清水、もぎ）。",
   "official_url": "https://rusantiman.com/",
   "x_url": null
+ },
+ {
+  "id": "anoice",
+  "name": "Anoice",
+  "country": "日本",
+  "genre_tags": [
+   "post-rock",
+   "neoclassical"
+  ],
+  "tier": "core",
+  "intro": "東京を拠点に活動する、木戸崇博、村田有希、藤原歌花、吉川忠志によるインストゥルメンタル・ミュージックバンド。ダークでシネマティックな音楽を制作し、2006年に米Important Recordsよりアルバム『Remmings』でデビューした。",
+  "official_url": "https://anoice.com/",
+  "x_url": null
+ },
+ {
+  "id": "clean-of-core",
+  "name": "Clean Of Core",
+  "country": "日本",
+  "genre_tags": [
+   "math rock",
+   "instrumental"
+  ],
+  "tier": "math-inst",
+  "intro": "千葉出身の3人組インストゥルメンタルバンド。2005年に高校の同級生であるSunao Takeda（guitar/keyboards）、Kenta Kato（bass）、Teruhito Takano（drums）により結成され、2010年に1stアルバム『Spectacle』をリリースした。",
+  "official_url": null,
+  "x_url": null
+ },
+ {
+  "id": "jyocho",
+  "name": "JYOCHO",
+  "country": "日本",
+  "genre_tags": [
+   "math rock",
+   "progressive rock"
+  ],
+  "tier": "math-inst",
+  "intro": "2016年、ギタリスト・だいじろー（ex.宇宙コンビニ）を中心に京都で始動したプログレッシブ・ロックバンド。フルートを含む編成で、テクニカルな演奏と情緒的な楽曲を特徴とする。",
+  "official_url": "https://jyocho.com/",
+  "x_url": "https://x.com/jyocho_jp"
+ },
+ {
+  "id": "lite",
+  "name": "LITE",
+  "country": "日本",
+  "genre_tags": [
+   "math rock",
+   "progressive rock"
+  ],
+  "tier": "math-inst",
+  "intro": "2003年結成の4人組インストゥルメンタル・ロックバンド。武田信幸（Gt）、楠本構造（Gt & Synthesizer）、井澤惇（Ba）、山本晃紀（Dr）による緻密なアンサンブルで、マスロックの代表格として国内外で活動している。",
+  "official_url": "http://lite-web.com/",
+  "x_url": "https://x.com/lite_jp"
+ },
+ {
+  "id": "mono",
+  "name": "MONO",
+  "country": "日本",
+  "genre_tags": [
+   "post-rock",
+   "instrumental"
+  ],
+  "tier": "core",
+  "intro": "1999年に東京で結成された4人組インストゥルメンタル・バンド。オーケストラやシューゲイザーの要素を取り入れたダイナミックなギターサウンドを特徴とし、世界各国で大規模なツアーを行っている。",
+  "official_url": "https://www.monoofjapan.com/",
+  "x_url": null
+ },
+ {
+  "id": "ovum",
+  "name": "OVUM",
+  "country": "日本",
+  "genre_tags": [
+   "post-rock",
+   "post-metal"
+  ],
+  "tier": "core",
+  "intro": "2006年に東京で結成された4人組インストゥルメンタル・ロックバンド。メタル志向のサウンドを特徴とし、結成以来200本以上のライブを行ってきた。",
+  "official_url": "http://www.ovum-japan.com/",
+  "x_url": null
+ },
+ {
+  "id": "people-in-the-box",
+  "name": "People In The Box",
+  "country": "日本",
+  "genre_tags": [
+   "post-rock",
+   "alternative rock"
+  ],
+  "tier": "core",
+  "intro": "2005年に結成され、2007年にミニアルバム『Rabbit Hole』でデビューした3人組バンド。メンバーは波多野裕文、山口大吾、福井健太（ベース、2008年加入）。",
+  "official_url": "https://peopleinthebox.com/",
+  "x_url": "https://x.com/_PeopleInTheBox"
+ },
+ {
+  "id": "spangle-call-lilli-line",
+  "name": "Spangle call Lilli line",
+  "country": "日本",
+  "genre_tags": [
+   "post-rock",
+   "electronica",
+   "indie pop"
+  ],
+  "tier": "core",
+  "intro": "1998年に下北沢で結成された、大坪加奈（ボーカル）・藤枝憲（ギター）・笹原清明（ギター）による3人組バンド。2026年9月にニューアルバム『lull』をリリースした。",
+  "official_url": "http://www.lilliline.com/",
+  "x_url": "https://x.com/SCLL_official"
+ },
+ {
+  "id": "about-tess",
+  "name": "about tess",
+  "country": "日本",
+  "genre_tags": [
+   "instrumental"
+  ],
+  "tier": "math-inst",
+  "intro": "ツインドラム＋ツインベース＋ツインギターという特異な6人編成のインストゥルメンタル・バンド。反復するリフと即興を並列に置いた、体感型のライブで知られる。",
+  "official_url": "http://www.abouttess.net/",
+  "x_url": null
+ },
+ {
+  "id": "downy",
+  "name": "downy",
+  "country": "日本",
+  "genre_tags": [
+   "post-rock"
+  ],
+  "tier": "core",
+  "intro": "2000年4月に青木ロビンを中心に結成されたロックバンド。映像担当メンバーが在籍し、ライブではVJ映像と演奏を同期させる演出で知られる。2004年に活動休止し、2013年に再始動した。",
+  "official_url": "https://www.downy-web.com/",
+  "x_url": "https://x.com/downy_official"
+ },
+ {
+  "id": "euphoria",
+  "name": "euphoria",
+  "country": "日本",
+  "genre_tags": [
+   "post-rock"
+  ],
+  "tier": "core",
+  "intro": "2001年に東京で結成された、森川裕之（ギター）・佐藤昭太（ベース）・木下ようすけ（ドラムス）による3人組ポストロックバンド。2010年に活動を停止し、2025年に再始動した。",
+  "official_url": "https://euphoria-sound.com/",
+  "x_url": null
+ },
+ {
+  "id": "miaou",
+  "name": "miaou",
+  "country": "日本",
+  "genre_tags": [
+   "post-rock"
+  ],
+  "tier": "core",
+  "intro": "2001年に神奈川県で結成された、浜崎龍樹（ギター/プログラミング）・長谷川真弓（ベース/シンセサイザー）・長谷川宏美（ドラムス）によるポストロックバンド。最新アルバムは2023年発表の『The Only Way To Find You』。",
+  "official_url": "https://www.miaoumusic.com/",
+  "x_url": null
+ },
+ {
+  "id": "rega",
+  "name": "rega",
+  "country": "日本",
+  "genre_tags": [
+   "instrumental"
+  ],
+  "tier": "math-inst",
+  "intro": "ギター×2、ベース、ドラムの4人編成のインストゥルメンタルバンド。溢れ出る感情を剥き出しに表現する演奏で、インストゥルメンタルバンドの枠組みを超えたロックバンドとして活動している。",
+  "official_url": "http://rega.jp/",
+  "x_url": null
+ },
+ {
+  "id": "sgt",
+  "name": "sgt.",
+  "country": "日本",
+  "genre_tags": [
+   "post-rock",
+   "instrumental"
+  ],
+  "tier": "core",
+  "intro": "1999年に結成されたインストゥルメンタル・バンド。ロック、ジャズ、ノイズ、エモ、即興、シネマティックな要素を融合した音楽性を持ち、2005年に1stミニアルバム『perception of causality』でデビューした。",
+  "official_url": null,
+  "x_url": "https://x.com/sgt_info"
+ },
+ {
+  "id": "te",
+  "name": "te'",
+  "country": "日本",
+  "genre_tags": [
+   "post-rock",
+   "instrumental"
+  ],
+  "tier": "core",
+  "intro": "2004年に結成された東京のポストロック／インストゥルメンタルバンド（現行表記はté）。残響レコード所属。アルバム・楽曲タイトルが29〜30文字の長文であることで知られる。",
+  "official_url": "https://tesound.amebaownd.com/",
+  "x_url": null
+ },
+ {
+  "id": "tricot",
+  "name": "tricot",
+  "country": "日本",
+  "genre_tags": [
+   "math rock"
+  ],
+  "tier": "math-inst",
+  "intro": "2010年9月1日に京都で結成されたロックバンド。複雑なリズムとエモーショナルなボーカルで知られ、海外ではマス・ロックに分類されることも多い。",
+  "official_url": "https://tricot-official.fanpla.jp/",
+  "x_url": "https://x.com/tricot_band"
+ },
+ {
+  "id": "worlds-end-girlfriend",
+  "name": "world's end girlfriend",
+  "country": "日本",
+  "genre_tags": [
+   "post-rock",
+   "electronica"
+  ],
+  "tier": "core",
+  "intro": "前田勝彦によるソロユニット。2000年にデビューし、ポストロックやエレクトロニカに分類される作品を発表してきた。2010年には自身のレーベルVirgin Babylon Recordsを設立した。",
+  "official_url": "http://www.worlds-end-girlfriend.org",
+  "x_url": null
  }
 ]

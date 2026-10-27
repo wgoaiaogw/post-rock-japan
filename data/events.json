@@ -273,5 +273,1538 @@
   "source_url": "https://www.jizue.com/schedule/9932",
   "checked_date": "2026-10-27",
   "note": "バンド公式サイトの公演詳細ページで全項目を確認。全席指定¥8,000。一般販売は2026年10月17日より開始（e+／ぴあ／ローチケ）。出演：Guitar 井上典政、Bass 山田剛、Piano Rina Kohmoto（EYRIE）、Drums 井上司（fox capture plan）、弦楽四重奏。当日券価格は公式页未载。"
+ },
+ {
+  "id": "2026-01-08-lite",
+  "title": "Seibu Media Communications Presents Immersive EnTaMe「The Beyond」in Tokyo",
+  "date": "2026-01-08",
+  "open": "18:00",
+  "start": "19:00",
+  "artist_ids": [
+   "lite"
+  ],
+  "genre_tags": [
+   "math rock",
+   "progressive rock"
+  ],
+  "venue_id": "club-ex",
+  "price_adv": 5500,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "http://lite-web.com/",
+  "source_url": "https://lite-web.com/shows/",
+  "checked_date": "2026-10-27",
+  "note": "LITE公式サイト公演情報による（センターステージ形式）。料金は席種別：1階指定席¥5,500／1階ベンチシート¥7,700／2階席¥6,600（price_advには1階指定席を採用）。開場・開演時刻は主催PR TIMES稿（17:30開場／18:30開演）と異なるため、LITE公式サイト記載（18:00／19:00）を採用し相違を明記。当日券価格・ドリンク代は公式ページ未載のためnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-02-07-mudy-on-the-sakuban",
+  "title": "ALL 6.5 -ONEMAN LIVE-",
+  "date": "2026-02-07",
+  "open": "18:30",
+  "start": "19:00",
+  "artist_ids": [
+   "mudy-on-the-sakuban"
+  ],
+  "genre_tags": [
+   "instrumental",
+   "math rock"
+  ],
+  "venue_id": "fever",
+  "price_adv": 4700,
+  "price_door": null,
+  "drink_note": "別途1ドリンク代必要（+1drink）",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://sakuban.themedia.jp/",
+  "source_url": "https://rooftop1976.com/news/2025/11/12145408.php",
+  "checked_date": "2026-10-27",
+  "note": "mudy on the 昨晩結成20周年企画のワンマン。主催Loft Projectの公式メディアRooftop掲載の公演情報で核实。スペシャルゲスト：滝善充（9mm Parabellum Bullet）、辻友貴（cinema staff）、武田将幸（HERE）、高橋國光（the cabs）。当日券価格は公式未載のためnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-02-07-the-novembers",
+  "title": "TOMOE 2026",
+  "date": "2026-02-07",
+  "open": "16:45",
+  "start": "17:30",
+  "artist_ids": [
+   "the-novembers",
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "alternative rock",
+   "shoegaze"
+  ],
+  "venue_id": "liquidroom",
+  "price_adv": 6600,
+  "price_door": null,
+  "drink_note": "ドリンクチャージ別",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://www.liquidroom.net/schedule/tomoe2026_20260207",
+  "checked_date": "2026-10-27",
+  "note": "tacica / The Novembers / People In The Box の3バンド共同ツアー『TOMOE 2026』東京公演。会場公式（LIQUIDROOM）スケジュールページで日程・開場/開演・前売料金¥6,600（税込・ドリンクチャージ別）を確認。当日券価格は同ページに記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": "tacica、The Novembers、People In The Box"
+ },
+ {
+  "id": "2026-02-14-the-novembers",
+  "title": "TOMOE 2026",
+  "date": "2026-02-14",
+  "open": "16:45",
+  "start": "17:30",
+  "artist_ids": [
+   "the-novembers",
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "alternative rock",
+   "shoegaze"
+  ],
+  "venue_id": "club-quattro-2",
+  "price_adv": 6600,
+  "price_door": null,
+  "drink_note": "入場時ドリンク代600円別途必要",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://en.club-quattro.com/umeda/schedule/detail/?cd=017687",
+  "checked_date": "2026-10-27",
+  "note": "共同ツアー『TOMOE 2026』大阪公演。会場公式（梅田CLUB QUATTRO）スケジュールページで日程・開場/開演・前売料金¥6,600、ドリンク代¥600別途を確認。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": "tacica、The Novembers、People In The Box"
+ },
+ {
+  "id": "2026-02-15-the-novembers",
+  "title": "TOMOE 2026",
+  "date": "2026-02-15",
+  "open": "16:45",
+  "start": "17:30",
+  "artist_ids": [
+   "the-novembers",
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "alternative rock",
+   "shoegaze"
+  ],
+  "venue_id": "club-quattro",
+  "price_adv": 6600,
+  "price_door": null,
+  "drink_note": "D別（入場時ドリンク代600円別途必要）",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=017861",
+  "checked_date": "2026-10-27",
+  "note": "共同ツアー『TOMOE 2026』名古屋公演。会場公式（名古屋CLUB QUATTRO）スケジュールページで日程・開場/開演・前売スタンディング¥6,600、ドリンク代¥600別途を確認。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": "tacica、The Novembers、People In The Box"
+ },
+ {
+  "id": "2026-02-21-tricot",
+  "title": "tricot Billboard Live \"Room service\"",
+  "date": "2026-02-21",
+  "open": "14:00",
+  "start": "15:00",
+  "artist_ids": [
+   "tricot"
+  ],
+  "genre_tags": [
+   "math rock"
+  ],
+  "venue_id": "venue-2",
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://tricot-official.fanpla.jp/",
+  "source_url": "https://www.billboard-live.com/tokyo/show?event_id=ev-20981&date=2026-02-21",
+  "checked_date": "2026-10-27",
+  "note": "Billboard Live公式サイトの公演ページで核实。同日2ステージ制：1st Stage Open 14:00 / Start 15:00、2nd Stage Open 17:00 / Start 18:00（open/startには1st Stageを記載）。料金は同ページ正文未載のためnull（会員予約制のため要別途確認）。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-03-07-toe",
+  "title": "KAELA SUPER STARs",
+  "date": "2026-03-07",
+  "open": "17:00",
+  "start": "18:00",
+  "artist_ids": [
+   "toe"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "math rock"
+  ],
+  "venue_id": "kt-zepp-yokohama",
+  "price_adv": 8800,
+  "price_door": null,
+  "drink_note": "ドリンク代別途必要",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.toe.st/",
+  "source_url": "https://t.pia.jp/pia/ticketInformation.do?eventCd=2548336&rlsCd=001",
+  "checked_date": "2026-10-27",
+  "note": "チケットぴあ公式公演ページで「ゲスト toe」表記と料金（1Fスタンディング¥8,800／2F指定席¥9,900、price_advは1F料金）、ドリンク代別途を確認。開場・開演（17:00/18:00）はSony Music Artists公式NEWSに基づく。toe公式shows索引でも同日のtoe出演を確認。3/8公演のゲストはME:Iであり本公演とは別。",
+  "lineup_text": "木村カエラ、toe"
+ },
+ {
+  "id": "2026-03-25-toe",
+  "title": "toe自主企画「変わるものと変わらぬもの Volume.12」",
+  "date": "2026-03-25",
+  "open": "18:00",
+  "start": "19:00",
+  "artist_ids": [
+   "toe"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "math rock"
+  ],
+  "venue_id": "spotify-o-east",
+  "price_adv": 6000,
+  "price_door": null,
+  "drink_note": "ドリンク代別途",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.toe.st/",
+  "source_url": "https://sensa.jp/news/20251218-toe.html",
+  "checked_date": "2026-10-27",
+  "note": "SENSA（toe関連公式ニュース）で日程・会場・開場開演・出演・前売¥6,000（オールスタンディング、ドリンク代別途）を確認。当日券価格は同ページ未掲載のためnull。",
+  "lineup_text": "toe、Daichi Yamamoto"
+ },
+ {
+  "id": "2026-04-11-the-novembers",
+  "title": "SYNCHRONICITY'26",
+  "date": "2026-04-11",
+  "open": null,
+  "start": "13:00",
+  "artist_ids": [
+   "the-novembers",
+   "downy",
+   "worlds-end-girlfriend",
+   "tricot",
+   "jyocho",
+   "fox-capture-plan",
+   "rusantiman"
+  ],
+  "genre_tags": [
+   "alternative rock",
+   "shoegaze"
+  ],
+  "venue_id": "spotify-o-east-bf",
+  "price_adv": 9800,
+  "price_door": null,
+  "drink_note": "ドリンク代別",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.downy-web.com/",
+  "source_url": "https://synchronicity.tv/news/5151/",
+  "checked_date": "2026-10-27",
+  "note": "主催SYNCHRONICITY公式サイトで4/11(土)出演アーティストにdownyが含まれることを確認。artistsは同ページ掲載の4/11出演者全組。料金は1日券¥9,800（price_adv）、別途通し券¥17,800、いずれもドリンク代別。公式ページの時間表記が「openstart 13:00（時間予定）」のためopenはnullとしstartに13:00を記録。downy個別の出演会場・時刻は公式ページ未掲載。会場は渋谷サーキット型（Spotify O-EAST／O-WEST／O-nest／duo MUSIC EXCHANGE／clubasia／7thFLOOR／SHIBUYA CLUB QUATTRO／Veats Shibuya／WWW／WWWX／TOKIO TOKYO／SHIBUYA FOWS）。〔合并核实：另据 https://synchronicity.tv/news/5188/ 亦确认本场〕〔合并核实：另据 https://synchronicity.tv/news/5188/ 亦确认本场〕",
+  "lineup_text": "Original Love Jazz Trio、BREIMEN、さらさ (Band Set)、Kan Sano (Band Set)、SPECIAL OTHERS、MONO NO AWARE、Mega Shinnosuke、SUNNY CAR WASH、PEDRO、奇妙礼太郎BAND、ZION、Homecomings、ハク。、She Her Her Hers、DYGL、No Buses、8otto、ヒトリエ、The Novembers、Lillies and Remains、downy、world's end girlfriend、tricot、JYOCHO、ひとひら、雪国、yeti let you notice、水中スピカ、cephalo、Blume popo、リュベンス、fox capture plan、paranoid void、JABBERLOOP、Daoko、tofubeats、ExWHYZ、DÉ DÉ MOUSE、lilbesh ramko、北村蕗、Jeremy Quartus、luv、Billyrrom、NIKO NIKO TAN TAN、chilldspot、the engy、浦上想起・バンド・ソサエティ、エルスウェア紀行、soraya、goethe、Czecho No Republic、フレンズ、Arche、BLACK BERRY TIMES、笹川真生、皆川溺集合体、171、the bercedes menz、ルサンチマン、さらば帝国、タデクイ、HUGEN、Meg Bonus、TiDE、The Crane (Taiwan)、ena mori (Philippines / Japan)、RADIOHOP (Netherlands)、Basajan (Indonesia)、Dabda (South Korea)、Yorke (Australia)、GYMV (Thailand)、Ko Umehara、DJ New Action!"
+ },
+ {
+  "id": "2026-04-11-cinema-staff",
+  "title": "cinema staff presents OOPARTS 2026",
+  "date": "2026-04-11",
+  "open": "10:30",
+  "start": "12:00",
+  "artist_ids": [
+   "cinema-staff",
+   "lite"
+  ],
+  "genre_tags": [
+   "alternative rock",
+   "emo"
+  ],
+  "venue_id": "venue-3",
+  "price_adv": 11000,
+  "price_door": null,
+  "drink_note": "ドリンク代別",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "http://lite-web.com/",
+  "source_url": "https://lite-web.com/shows/",
+  "checked_date": "2026-10-27",
+  "note": "LITE公式サイト公演情報およびSkream!公式ラインナップ記事で確認。artistsはLITEと同ステージ（BUNKA ARENA）の4/11出演組のみを収録（KOGANE STAGE出演組は別ステージのため除外）。price_advは1DAY券¥11,000（2DAYS通し券¥16,500もあり）。当日券価格は公式ページ未載のためnull。",
+  "lineup_text": "cinema staff、a flood of circle、Nothing's Carved In Stone、österreich、LITE、9mm Parabellum Bullet、ストレイテナー、アルカラ、w.o.d.、SAKANAMON"
+ },
+ {
+  "id": "2026-04-12-zazen-boys",
+  "title": "SYNCHRONICITY'26",
+  "date": "2026-04-12",
+  "open": "13:00",
+  "start": "13:00",
+  "artist_ids": [
+   "zazen-boys",
+   "people-in-the-box",
+   "mouse-on-the-keys",
+   "jizue",
+   "lite",
+   "rega",
+   "mudy-on-the-sakuban",
+   "domico"
+  ],
+  "genre_tags": [
+   "alternative rock",
+   "math rock"
+  ],
+  "venue_id": "synchronicity26-shibuya",
+  "price_adv": 9800,
+  "price_door": null,
+  "drink_note": "ドリンク代別",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://lp.p.pia.jp/article/news/444997/index.html",
+  "checked_date": "2026-10-27",
+  "note": "渋谷サーキット型フェスティバル（4/11・4/12の2日間、12会場）。ぴあ公式ニュースでPeople In The Boxが4/12のラインナップに含まれることを確認。artistsは公式ラインナップ発表に基づく4/12出演者全69組を転記。startはフェス全体の開始時刻13:00（予定）で、openは分離表記がないためnull。公式タイムテーブルではPeople In The Boxの出番は19:20–20:10とされるが、出演ステージ名はタイムテーブル画像/PDFのみでテキスト特定できなかったため、venueはフェス全体の12会場を記載。price_advは1日券¥9,800（2日通し券は¥17,800）。当日券価格は確認した公式ページに記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。〔合并核实：另据 https://synchronicity.tv/news/2396/ 亦确认本场〕〔合并核实：另据 https://synchronicity.tv/news/5188/ 亦确认本场〕",
+  "lineup_text": "渋さ知らズオーケストラ、ZAZEN BOYS、FCO.、kurayamisaka、betcover!!、bacho、downt、サニーデイ・サービス、眞名子新 (Band Set)、urema、the band apart、People In The Box、MASS OF THE FERMENTING DREGS、mouse on the keys、toconoma、jizue、LITE、rega、mudy on the 昨晩、QOOPIE、Suspended 4th、Helsinki Lambda Club、家主、ドミコ、TENDOUJI、どんぐりず、SUSHIBOYS、lil soft tennis、Neibiss、oops cool、TURTLE ISLAND、saccharin、神聖かまってちゃん、モーモールルギャバン、トップシークレットマン、sidenerds、moreru、SuiseiNoboAz、板歯目、せだい、Khaki、aldo van eyck、Trooper Salute、揺れるは幽霊、Hammer Head Shark、VELTPUNCH、新東京、S.A.R.、スーパー登山部、brkfstblend、Emerald、HALLEY、CHIANZ、やさしいみらい、aint lindy、Black petrol、永井琳子 (Band Set)、SYAYOS、DOGO、Bone Us、Adult DVD (United Kingdom)、ena mori (Philippines / Japan)、VEGA (Thailand)、Rum Jungle (Australia)、Bugs of Phonon (Taiwan)、Phoebe Rings (New Zealand)、Fat Hamster & KANG New (South Korea)、Ko Umehara、DJ New Action!、Bugs of Phonon、Wellsaid、Adult DVD、VEGA、Rum Jungle、Phoebe Rings、Fat Hamster & KANG New、Wellsaid (Hong Kong)"
+ },
+ {
+  "id": "2026-04-16-tricot",
+  "title": "参源色 -sangensyoku-",
+  "date": "2026-04-16",
+  "open": "17:30",
+  "start": "18:30",
+  "artist_ids": [
+   "tricot"
+  ],
+  "genre_tags": [
+   "math rock"
+  ],
+  "venue_id": "spotify-o-east",
+  "price_adv": 5000,
+  "price_door": null,
+  "drink_note": "別途1Drink代",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://tricot-official.fanpla.jp/",
+  "source_url": "https://e.usen.com/news/news-event/-tetora-tricot-3---sangensyoku-4-16-spotify-o-east.html",
+  "checked_date": "2026-10-27",
+  "note": "主催サンライズプロモーションの公式ニュース稿（USENの音楽情報サイトencore掲載）で核实。price_advは1Fスタンディング通常料金（税込）。他に2F指定席¥5,500、先行受付限定の割引チケット（学割¥3,900、グッズ持込割¥4,500、ガールズ割¥3,900、ペア割¥8,000）あり。当日券価格は未載のためnull。",
+  "lineup_text": "TETORA、tricot、リーガルリリー"
+ },
+ {
+  "id": "2026-04-25-people-in-the-box",
+  "title": "People In The Box 2026 無限会社 初夏の社員研修",
+  "date": "2026-04-25",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "alternative rock"
+  ],
+  "venue_id": "live-house-cb",
+  "price_adv": 5500,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://lp.p.pia.jp/article/news/446151/index.html",
+  "checked_date": "2026-10-27",
+  "note": "ワンマンツアー『People In The Box 2026 無限会社 初夏の社員研修』福岡公演。日程・会場はぴあ公式ニュースのツアー発表で確認、料金¥5,500はローチケ公演ページ（ツアー全公演一覧）に基づく。開場/開演は本文を確認できる公式ページが得られずnull（集約サイト上の時刻情報は未核実のため不採用）。ドリンク条件も未確認のためdrink_noteはnull。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-04-26-people-in-the-box",
+  "title": "People In The Box 2026 無限会社 初夏の社員研修",
+  "date": "2026-04-26",
+  "open": "17:00",
+  "start": "17:30",
+  "artist_ids": [
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "alternative rock"
+  ],
+  "venue_id": "image",
+  "price_adv": 5500,
+  "price_door": null,
+  "drink_note": "ドリンク代600円別途",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://www.yumebanchi.jp/event/44126/",
+  "checked_date": "2026-10-27",
+  "note": "ワンマンツアー岡山公演。主催・夢番地の公式公演ページで開場17:00/開演17:30、前売¥5,500、ドリンク代¥600別途を確認。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-04-29-people-in-the-box",
+  "title": "People In The Box 2026 無限会社 初夏の社員研修",
+  "date": "2026-04-29",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "alternative rock"
+  ],
+  "venue_id": "venue-5",
+  "price_adv": 5500,
+  "price_door": null,
+  "drink_note": "ドリンク代別",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://lp.p.pia.jp/event/music/457496/index.html",
+  "checked_date": "2026-10-27",
+  "note": "ワンマンツアー札幌公演。ぴあ公式公演ページで前売¥5,500（オールスタンディング、ドリンク代別）、主催Mount Aliveを確認。開場/開演は同ページで確認できずnull。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。source_urlはぴあ公式のチケット公演ページ（過去公演のためticket_status / ticket_urlはnull）。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-04-30-lostage",
+  "title": null,
+  "date": "2026-04-30",
+  "open": "18:00",
+  "start": "19:00",
+  "artist_ids": [
+   "lostage",
+   "lite"
+  ],
+  "genre_tags": [
+   "alternative rock",
+   "emo"
+  ],
+  "venue_id": "spotify-o-nest",
+  "price_adv": 4400,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "http://lite-web.com/",
+  "source_url": "https://lite-web.com/shows/",
+  "checked_date": "2026-10-27",
+  "note": "LITE公式サイト公演情報による。会場公式サイトのnest 30th Anniversary特集でも「4/30 LITE / LOSTAGE」の掲載を確認したが、LITE公式ページに公演タイトルの記載がないためtitleはnull。当日券価格・ドリンク代は公式ページ未載のためnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-05-07-people-in-the-box",
+  "title": "People In The Box 2026 無限会社 初夏の社員研修",
+  "date": "2026-05-07",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "alternative rock"
+  ],
+  "venue_id": "kyoto-muse",
+  "price_adv": 5500,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://lp.p.pia.jp/article/news/446151/index.html",
+  "checked_date": "2026-10-27",
+  "note": "ワンマンツアー京都公演。日程・会場はぴあ公式ニュースのツアー発表で確認、料金¥5,500はローチケ公演ページ（ツアー全公演一覧）に基づく。開場/開演は本文を確認できる公式ページが得られずnull（集約サイト上の時刻情報は未核実のため不採用）。ドリンク条件も未確認のためdrink_noteはnull。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-05-09-kotori",
+  "title": "CRAFTROCK FESTIVAL '26",
+  "date": "2026-05-09",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "kotori",
+   "lostage",
+   "toe"
+  ],
+  "genre_tags": [],
+  "venue_id": "stage-garden-bf",
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.toe.st/",
+  "source_url": "http://spice.eplus.jp/articles/345176/amp",
+  "checked_date": "2026-10-27",
+  "note": "toe公式shows索引で日付とタイトルを確認。会場（立川 STAGE GARDEN）と5/9 Day1の陣容はSPICE（イープラス運営メディア）の開催発表記事に基づく。開場・開演・料金は同記事および索引に未掲載のためnull。",
+  "lineup_text": "Age Factory、bacho、the band apart、COMEBACK MY DAUGHTERS、KOTORI、THE LOCAL PINTS、LOSTAGE、Nothing's Carved In Stone、おとぼけビ～バ～、Sorry Youth (from Taiwan)、ストレイテナー、toe"
+ },
+ {
+  "id": "2026-05-09-people-in-the-box",
+  "title": "People In The Box 2026 無限会社 初夏の社員研修",
+  "date": "2026-05-09",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "alternative rock"
+  ],
+  "venue_id": "heaven-s-rock-kumagaya-vj-1",
+  "price_adv": 5500,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://lp.p.pia.jp/article/news/446151/index.html",
+  "checked_date": "2026-10-27",
+  "note": "ワンマンツアー埼玉・熊谷公演。日程・会場はぴあ公式ニュースのツアー発表で確認、料金¥5,500はローチケ公演ページ（ツアー全公演一覧）に基づく。開場/開演は本文を確認できる公式ページが得られずnull。ドリンク条件も未確認のためdrink_noteはnull。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-05-15-people-in-the-box",
+  "title": "People In The Box 2026 無限会社 初夏の社員研修",
+  "date": "2026-05-15",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "alternative rock"
+  ],
+  "venue_id": "macana",
+  "price_adv": 5500,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://lp.p.pia.jp/article/news/446151/index.html",
+  "checked_date": "2026-10-27",
+  "note": "ワンマンツアー仙台公演。日程・会場はぴあ公式ニュースのツアー発表で確認、料金¥5,500はローチケ公演ページ（ツアー全公演一覧）に基づく。開場/開演は本文を確認できる公式ページが得られずnull。ドリンク条件も未確認のためdrink_noteはnull。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-05-16-zazen-boys",
+  "title": "CIRCLE '26",
+  "date": "2026-05-16",
+  "open": "9:30",
+  "start": "11:00",
+  "artist_ids": [
+   "zazen-boys",
+   "toe"
+  ],
+  "genre_tags": [
+   "alternative rock",
+   "math rock"
+  ],
+  "venue_id": "venue-6",
+  "price_adv": 11000,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.toe.st/",
+  "source_url": "https://BEA-net.com/liveinformation/artist/2605circle.html",
+  "checked_date": "2026-10-27",
+  "note": "主催BEA公式ページで日程・会場・開場9:30／開演11:00・料金（1日券¥11,000、price_advは1日券。他に2日通し券¥20,000・学割等）を確認。同ページに陣容の記載がないため、Day1陣容はSPICE（イープラス）の公演レポートに基づく。ドリンク条件は公式ページ未掲載のためnull。",
+  "lineup_text": "Andr、思い出野郎Aチーム、kanekoayano、ZAZEN BOYS、Ginger Root (Solo Set)、D.A.N.、toe、ハンバート ハンバート、フルカワミキ÷ユザーン×ナカコー"
+ },
+ {
+  "id": "2026-05-17-people-in-the-box",
+  "title": "People In The Box 2026 無限会社 初夏の社員研修",
+  "date": "2026-05-17",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "alternative rock"
+  ],
+  "venue_id": "live-house-j",
+  "price_adv": 5500,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://lp.p.pia.jp/article/news/446151/index.html",
+  "checked_date": "2026-10-27",
+  "note": "ワンマンツアー長野公演（長野市・LIVE HOUSE J）。日程・会場はぴあ公式ニュースのツアー発表で確認、料金¥5,500はローチケ公演ページ（ツアー全公演一覧）に基づく。開場/開演は本文を確認できる公式ページが得られずnull。ドリンク条件も未確認のためdrink_noteはnull。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-05-22-people-in-the-box",
+  "title": "People In The Box 2026 無限会社 初夏の社員研修",
+  "date": "2026-05-22",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "alternative rock"
+  ],
+  "venue_id": "246-gabu",
+  "price_adv": 5500,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://lp.p.pia.jp/article/news/446151/index.html",
+  "checked_date": "2026-10-27",
+  "note": "ワンマンツアー大阪公演。日程・会場はぴあ公式ニュースのツアー発表で確認、料金¥5,500はローチケ公演ページ（ツアー全公演一覧）に基づく。開場/開演は本文を確認できる公式ページが得られずnull。ドリンク条件も未確認のためdrink_noteはnull。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-05-24-people-in-the-box",
+  "title": "People In The Box 2026 無限会社 初夏の社員研修",
+  "date": "2026-05-24",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "alternative rock"
+  ],
+  "venue_id": "nagoya-jammin",
+  "price_adv": 5500,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://lp.p.pia.jp/article/news/446151/index.html",
+  "checked_date": "2026-10-27",
+  "note": "ワンマンツアー名古屋公演。会場は主催告知等で『伏見JAMMIN'』と表記されるが、サイト既存の場館レコード名『名古屋JAMMIN'』に合わせた（同一会場）。日程・会場はぴあ公式ニュースのツアー発表で確認、料金¥5,500はローチケ公演ページに基づく。主催Jailhouseの公式ページは確認時点で別公演に更新されており当該公演の本文を確認できなかったため、開場/開演・ドリンク条件はnull（検索スニペット上の開場17:00/開演17:30・ドリンク¥600は未核実として不採用）。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-05-24-downy",
+  "title": "downy / aldo van eyck",
+  "date": "2026-05-24",
+  "open": "17:00",
+  "start": "18:00",
+  "artist_ids": [
+   "downy"
+  ],
+  "genre_tags": [
+   "post-rock"
+  ],
+  "venue_id": "wall-wall",
+  "price_adv": 5000,
+  "price_door": null,
+  "drink_note": "1ドリンク込み",
+  "ticket_status": null,
+  "ticket_url": "https://wallwall.zaiko.io/e/downyaldoveyck",
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.downy-web.com/",
+  "source_url": "https://wallwall.zaiko.io/e/downyaldoveyck",
+  "checked_date": "2026-10-27",
+  "note": "ZAIKO公式公演ページ（票務ページ）で日程・開場17:00／開演18:00・会場・前売入場券¥5,000（スタンディング／1ドリンク込み）を確認。同ページは現在も開ける票務ページのためticket_urlに同URLを記録（ticket_statusは過去公演のためnull）。当日券価格は未掲載のためnull。",
+  "lineup_text": "downy、aldo van eyck"
+ },
+ {
+  "id": "2026-05-29-people-in-the-box",
+  "title": "People In The Box 2026 無限会社 初夏の社員研修",
+  "date": "2026-05-29",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "alternative rock"
+  ],
+  "venue_id": "spotify-o-east",
+  "price_adv": 5500,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://lp.p.pia.jp/article/news/446151/index.html",
+  "checked_date": "2026-10-27",
+  "note": "ワンマンツアー東京公演。日程・会場はぴあ公式ニュースのツアー発表で確認、料金¥5,500はローチケ公演ページ（ツアー全公演一覧）に基づく。本公演はライブ録音され、アルバム関連の公式発表でも開催が裏付けられる。開場/開演は本文を確認できる公式ページが得られずnull（集約サイト上の時刻情報は未核実のため不採用）。ドリンク条件も未確認のためdrink_noteはnull。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。会場レコードは既存の『Spotify O-EAST』を使用。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-06-07-people-in-the-box",
+  "title": "People In The Box 2026 無限会社 初夏の社員研修（追加公演）",
+  "date": "2026-06-07",
+  "open": "16:15",
+  "start": "17:00",
+  "artist_ids": [
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "alternative rock"
+  ],
+  "venue_id": "club-quattro-3",
+  "price_adv": 5500,
+  "price_door": null,
+  "drink_note": "ドリンク代別（D代別）",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://peopleinthebox.com/news",
+  "checked_date": "2026-10-27",
+  "note": "ワンマンツアーの追加公演。バンド公式サイトのNewsで開場16:15/開演17:00、前売¥5,500（D代別）を確認。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-06-13-worlds-end-girlfriend",
+  "title": "world's end girlfriend『抵抗と祝福の夜 2026』",
+  "date": "2026-06-13",
+  "open": "18:00",
+  "start": "19:00",
+  "artist_ids": [
+   "worlds-end-girlfriend"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "electronica"
+  ],
+  "venue_id": "ex",
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": "https://virginbabylonrecords.bandcamp.com/album/special-ticket-2026",
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "http://www.worlds-end-girlfriend.org",
+  "source_url": "https://virginbabylonrecords.bandcamp.com/album/special-ticket-2026",
+  "checked_date": "2026-10-27",
+  "note": "ワンマン公演。出典は所属レーベル Virgin Babylon Records 公式Bandcampのチケット販売ページ（公式ページ自体がチケットページで現在も閲覧可能なため、例外として ticket_url に同URLを記載。ticket_status は過去公演のためnull）。同ページのチケットはUSD建てのスペシャルチケットのみで、席種別料金は SS席 $45 / S席 $40 / A席 $38 / B席 $31（全席指定、2026-02-21 21:00発売開始）。日本円の前売・当日料金の記載がないため price_adv / price_door はnull。ドリンクに関する記載がないため drink_note はnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-06-28-the-cabs",
+  "title": "All Our Tomorrows — Curated by cinema staff",
+  "date": "2026-06-28",
+  "open": "11:00",
+  "start": "12:00",
+  "artist_ids": [
+   "the-cabs",
+   "cinema-staff",
+   "mudy-on-the-sakuban",
+   "rusantiman"
+  ],
+  "genre_tags": [
+   "alternative rock",
+   "emo",
+   "math rock"
+  ],
+  "venue_id": "spotify-o-east-duo-music-exchange-bf",
+  "price_adv": 7500,
+  "price_door": null,
+  "drink_note": "1ドリンクチャージ別",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://sakuban.themedia.jp/",
+  "source_url": "https://shibuya-o.com/east/schedule/all-our-tomorrows-curated-by-cinema-staff/",
+  "checked_date": "2026-10-27",
+  "note": "会場公式サイト（Shibuya O-EAST）のスケジュールページで核实。cinema staffキュレーションの2会場サーキットイベントで全16組出演。前売¥7,500（税込・1ドリンクチャージ別）。当日券価格は公式未載のためnull。",
+  "lineup_text": "the cabs、cinema staff、9mm Parabellum Bullet、mudy on the 昨晩、SuiseiNoboAz、MASS OF THE FERMENTING DREGS、yubiori、ひとひら、ANORAK!、Texas 3000、ルサンチマン、3cmtour、dry as dust、Hammer Head Shark、toddle、VELTPUNCH"
+ },
+ {
+  "id": "2026-06-28-tricot",
+  "title": "PK shampoo tour 2026 -Planet Parade- 仙台公演",
+  "date": "2026-06-28",
+  "open": "17:30",
+  "start": "18:00",
+  "artist_ids": [
+   "tricot"
+  ],
+  "genre_tags": [
+   "math rock"
+  ],
+  "venue_id": "darwin",
+  "price_adv": 4500,
+  "price_door": null,
+  "drink_note": "ドリンク代別",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://tricot-official.fanpla.jp/",
+  "source_url": "https://tricot-official.fanpla.jp/news/detail/77531",
+  "checked_date": "2026-10-27",
+  "note": "tricot公式サイトのニュースページで核实。PK shampooの全国ツアー仙台公演にtricotが対バン出演。前売はスタンディング¥4,500（税込・ドリンク代別）。当日券価格は公式未載のためnull。",
+  "lineup_text": "PK shampoo、tricot"
+ },
+ {
+  "id": "2026-07-03-mono",
+  "title": "「Snowdrop」Japan Tour 2026",
+  "date": "2026-07-03",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "mono"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "instrumental"
+  ],
+  "venue_id": "spotify-o-east",
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.monoofjapan.com/",
+  "source_url": "http://www.monoofjapan.com/news.php",
+  "checked_date": "2026-10-27",
+  "note": "MONO公式サイトNEWS（2026-01-20および2026-04-08掲載のツアー発表）で日程・会場・ツアータイトルを確認。開場・開演・料金は公式NEWSに未掲載のためnull。過去公演のためticket_status/ticket_urlはnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-07-05-mouse-on-the-keys",
+  "title": "NO MEMORIES – mouse on the keys 20th Anniversary show Harbor Studio 10 year Anniversary",
+  "date": "2026-07-05",
+  "open": "17:30",
+  "start": "18:30",
+  "artist_ids": [
+   "mouse-on-the-keys"
+  ],
+  "genre_tags": [
+   "instrumental"
+  ],
+  "venue_id": "harbor-studio",
+  "price_adv": 5000,
+  "price_door": 6000,
+  "drink_note": "1ドリンクオーダー別（¥600）",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.mouseonthekeys.net/",
+  "source_url": "https://masahirotobita.com/?p=2168",
+  "checked_date": "2026-10-27",
+  "note": "日時・料金の出所はmouse on the keysのサポートギタリスト飛田雅弘氏の公式サイト公演ページ。公演名・会場・出演者はイープラス公式チケットページ（https://eplus.jp/sf/detail/4511430001-P0030001）でも確認済み。バンド公式サイト本体はテキスト抽出できず直接確認できていないため、出所口径をここに明記する。",
+  "lineup_text": "mouse on the keys、schizophragm"
+ },
+ {
+  "id": "2026-07-05-mono",
+  "title": "「Snowdrop」Japan Tour 2026",
+  "date": "2026-07-05",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "mono"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "instrumental"
+  ],
+  "venue_id": "yogibo-meta-valley",
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.monoofjapan.com/",
+  "source_url": "http://www.monoofjapan.com/news.php",
+  "checked_date": "2026-10-27",
+  "note": "MONO公式サイトNEWS（「Snowdrop」Japan Tour 2026発表）で日程・会場を確認。開場・開演・料金は公式NEWSに未掲載のためnull。過去公演のためticket_status/ticket_urlはnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-07-06-mouse-on-the-keys",
+  "title": "stiffslack presents eve of destruction vol.9",
+  "date": "2026-07-06",
+  "open": "18:30",
+  "start": "19:30",
+  "artist_ids": [
+   "mouse-on-the-keys"
+  ],
+  "genre_tags": [
+   "instrumental"
+  ],
+  "venue_id": "stiffslack-venue",
+  "price_adv": 4500,
+  "price_door": 5000,
+  "drink_note": "+1drink（¥600）",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.mouseonthekeys.net/",
+  "source_url": "https://www.stiffslack.com/venue/202607.html?date=20260706",
+  "checked_date": "2026-10-27",
+  "note": "会場stiffslack公式スケジュールページ（2026年7月）で確認。U-22／学生料金¥3,000（+1drink）もあり。飛田雅弘氏公式サイトの公演ページとも内容一致。",
+  "lineup_text": "mouse on the keys、Bone Us"
+ },
+ {
+  "id": "2026-07-15-lite",
+  "title": "ERA 24th ANNIVERSARY",
+  "date": "2026-07-15",
+  "open": "18:30",
+  "start": "19:00",
+  "artist_ids": [
+   "lite"
+  ],
+  "genre_tags": [
+   "math rock",
+   "progressive rock"
+  ],
+  "venue_id": "era",
+  "price_adv": 4300,
+  "price_door": 4800,
+  "drink_note": "1ドリンク代別途（¥700）",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "http://lite-web.com/",
+  "source_url": "https://lite-web.com/shows/",
+  "checked_date": "2026-10-27",
+  "note": "LITE公式サイト公演情報による（イープラス公演ページへのリンク付き）。",
+  "lineup_text": "ichikoro、LITE"
+ },
+ {
+  "id": "2026-07-18-jyocho",
+  "title": "JYOCHO one man show 2026「忘れたくないこと」",
+  "date": "2026-07-18",
+  "open": "17:00",
+  "start": "18:00",
+  "artist_ids": [
+   "jyocho"
+  ],
+  "genre_tags": [
+   "math rock",
+   "progressive rock"
+  ],
+  "venue_id": "live-house-anima",
+  "price_adv": 4400,
+  "price_door": null,
+  "drink_note": "+1Dr（ドリンク代別）",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://jyocho.com/",
+  "source_url": "https://jyocho.com/news/a483e3e8-d10f-4ef1-8cbe-049bf103b959",
+  "checked_date": "2026-10-27",
+  "note": "JYOCHO公式サイトのニュースページで核实（LivePocketの公式チケットページでも同一内容を確認）。学割チケット¥2,400 + 1Dr（限定枚数）あり。当日券価格は公式未載のためnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-07-18-toe",
+  "title": "太陽のおと 2026",
+  "date": "2026-07-18",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "toe"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "math rock"
+  ],
+  "venue_id": null,
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.toe.st/",
+  "source_url": "https://www.toe.st/shows",
+  "checked_date": "2026-10-27",
+  "note": "toe公式サイトshows索引にタイトルと日付のみ掲載。会場・時間・料金を載せた公式詳細ページは確認できなかったため、該当項目はすべてnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-08-01-tricot",
+  "title": "OSAKA GIGANTIC MUSIC FESTIVAL 2026 -THANKS 10TH GIGA-",
+  "date": "2026-08-01",
+  "open": "9:30",
+  "start": "11:00",
+  "artist_ids": [
+   "tricot"
+  ],
+  "genre_tags": [
+   "math rock"
+  ],
+  "venue_id": "venue-x-bf",
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://tricot-official.fanpla.jp/",
+  "source_url": "https://tricot-official.fanpla.jp/news/detail/77540",
+  "checked_date": "2026-10-27",
+  "note": "tricotの出演日（8月1日）はtricot公式サイトのニュースページで核实。会場名・開場9:30/開演11:00は主催発表の開催概要による。artistsは8月1日の全出演者（チケットぴあ最終ラインナップ発表による）。チケット料金はtricot公式ページ未載のためnull。",
+  "lineup_text": "UVERworld、打首獄門同好会、ウルフルズ、HY、Awich、OZworld、CUTIE STREET、Crystal Lake、Creepy Nuts、櫻坂46、Suspended 4th、SHANK、湘南乃風、Jin Dogg、SKA SKA CLUB、sumika、すりぃ、Dizzy Sunfist、tricot、NOISEMAKER、ハルカミライ、ハンブレッダーズ、FOMARE、HEY-SMITH、Penthouse、マキシマム ザ ホルモン、礼賛、Reol、locofrank、ROTTENGRAFFTY"
+ },
+ {
+  "id": "2026-08-01-toe",
+  "title": "toe 伊勢単独公演",
+  "date": "2026-08-01",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "toe"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "math rock"
+  ],
+  "venue_id": null,
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.toe.st/",
+  "source_url": "https://www.toe.st/shows",
+  "checked_date": "2026-10-27",
+  "note": "toe公式サイトshows索引にタイトルと日付のみ掲載。venue_areaは索引タイトル中の「伊勢」（三重県伊勢市）に基づくが、会場名は公式ページ未掲載のためvenueはnull。時間・料金も未掲載のためnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-08-02-jyocho",
+  "title": "JYOCHO one man show 2026「忘れたくないこと」",
+  "date": "2026-08-02",
+  "open": "17:00",
+  "start": "18:00",
+  "artist_ids": [
+   "jyocho"
+  ],
+  "genre_tags": [
+   "math rock",
+   "progressive rock"
+  ],
+  "venue_id": "spotify-o-west",
+  "price_adv": 4400,
+  "price_door": null,
+  "drink_note": "+1Dr（ドリンク代別）",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://jyocho.com/",
+  "source_url": "https://jyocho.com/news/a483e3e8-d10f-4ef1-8cbe-049bf103b959",
+  "checked_date": "2026-10-27",
+  "note": "JYOCHO公式サイトのニュースページで核实。東阪ワンマンの東京公演。学割チケット¥2,400 + 1Dr（限定枚数）あり。当日券価格は公式未載のためnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-08-02-toe",
+  "title": "toe円形演奏公演 “IN A CIRCLE” At YEBISUYA PRO 11th Anniversary Live",
+  "date": "2026-08-02",
+  "open": "17:15",
+  "start": "18:00",
+  "artist_ids": [
+   "toe"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "math rock"
+  ],
+  "venue_id": "yebisuya-pro",
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": "ドリンク代別途要",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.toe.st/",
+  "source_url": "https://yebisuyapro.jp/events/v/1695",
+  "checked_date": "2026-10-27",
+  "note": "会場YEBISUYA PRO公式公演ページで日程・開場17:15／開演18:00・ドリンク代別途要を確認（同ページにSOLD OUT表記、チケットはイープラス扱い）。料金は同ページ未掲載のためnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-08-30-toe",
+  "title": "SANITY 5th Anniversary Festival",
+  "date": "2026-08-30",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "toe"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "math rock"
+  ],
+  "venue_id": null,
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.toe.st/",
+  "source_url": "https://www.toe.st/shows",
+  "checked_date": "2026-10-27",
+  "note": "toe公式サイトshows索引にタイトルと日付のみ掲載。会場・時間・料金を載せた公式詳細ページは確認できなかったため、該当項目はすべてnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-09-01-tricot",
+  "title": "単独公演「X」",
+  "date": "2026-09-01",
+  "open": "18:00",
+  "start": "19:00",
+  "artist_ids": [
+   "tricot"
+  ],
+  "genre_tags": [
+   "math rock"
+  ],
+  "venue_id": "liquidroom",
+  "price_adv": 5500,
+  "price_door": null,
+  "drink_note": "ドリンク代別",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://tricot-official.fanpla.jp/",
+  "source_url": "https://tricot-official.fanpla.jp/news/detail/80101",
+  "checked_date": "2026-10-27",
+  "note": "tricot公式サイトのニュースページで核实。恵比寿LIQUIDROOMでの単独公演。前売¥5,500のほか10代限定チケット¥1,000あり（いずれもドリンク代別）。当日券価格は公式未載のためnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-09-05-cinema-staff",
+  "title": "ART-SCHOOL TRIBUTE LIVE \"Dreams Never End vol.9\"",
+  "date": "2026-09-05",
+  "open": "17:00",
+  "start": "18:00",
+  "artist_ids": [
+   "cinema-staff",
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "alternative rock",
+   "emo"
+  ],
+  "venue_id": "liquidroom",
+  "price_adv": 5800,
+  "price_door": null,
+  "drink_note": "ドリンク代別",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://lp.p.pia.jp/article/news/462084/index.html",
+  "checked_date": "2026-10-27",
+  "note": "ART-SCHOOLのトリビュートライブ。出演はART-SCHOOL / cinema staff / People In The Box。ぴあ公式ニュースで開場17:00/開演18:00、前売スタンディング¥5,800（学割¥4,800）、ドリンク代別を確認。当日券価格の記載がなくprice_doorはnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": "ART-SCHOOL、cinema staff、People In The Box"
+ },
+ {
+  "id": "2026-09-05-downy",
+  "title": "HELLO INDIE 2026 -SENDAI-",
+  "date": "2026-09-05",
+  "open": "12:30",
+  "start": "13:00",
+  "artist_ids": [
+   "downy",
+   "mouse-on-the-keys",
+   "lite"
+  ],
+  "genre_tags": [
+   "post-rock"
+  ],
+  "venue_id": "pit",
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": "2ドリンク制",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "http://lite-web.com/",
+  "source_url": "https://lite-web.com/shows/",
+  "checked_date": "2026-10-27",
+  "note": "LITE公式サイト公演情報による。料金はPay What You Can方式（来場者が会場で自由にチケット料金を設定）ためprice_adv／price_doorはnull。TAMIWはSENSAの公演情報で出演者として記載があるため追加収録。ドリンク代の扱いは公式ページ未載のためnull。〔合并核实：另据 https://helloindie.net/ 亦确认本场〕",
+  "lineup_text": "She Her Her Hers、spike shoes、downy、環ROY、TAMIW、mouse on the keys、LITE"
+ },
+ {
+  "id": "2026-09-06-downy",
+  "title": "HELLO INDIE 2026 -TOKYO-",
+  "date": "2026-09-06",
+  "open": "16:30",
+  "start": "17:00",
+  "artist_ids": [
+   "downy",
+   "mouse-on-the-keys"
+  ],
+  "genre_tags": [
+   "post-rock"
+  ],
+  "venue_id": "zepp-shinjuku",
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": "2ドリンク制",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.downy-web.com/",
+  "source_url": "https://helloindie.net/",
+  "checked_date": "2026-10-27",
+  "note": "主催HELLO INDIE公式サイトで日程・開場16:30／開演17:00・会場（Zepp Shinjuku）を確認。チケットはPay What You Can方式のためprice_adv/price_doorはnull。2ドリンク制。陣容はSENSAの主催関連インタビュー記事に基づく。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-09-13-jizue",
+  "title": "jizue 20th anniversary fes「ones」",
+  "date": "2026-09-13",
+  "open": "12:00",
+  "start": "12:00",
+  "artist_ids": [
+   "jizue",
+   "fox-capture-plan",
+   "rega",
+   "lite"
+  ],
+  "genre_tags": [
+   "instrumental",
+   "jazz-rock"
+  ],
+  "venue_id": "venue-4",
+  "price_adv": 6800,
+  "price_door": null,
+  "drink_note": "ドリンク代別途",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "http://lite-web.com/",
+  "source_url": "https://lite-web.com/shows/",
+  "checked_date": "2026-10-27",
+  "note": "LITE公式サイト公演情報による（Billboard JAPAN発のニュースでも同出演者・同日時を確認）。料金種別：一般（早割）¥5,800／一般GROUP3名（早割）¥16,500／一般（前売）¥6,800／一般GROUP（前売）¥19,500／U-22 ¥4,500。price_advには一般（前売）を採用。当日券価格は公式ページ未載のためnull。",
+  "lineup_text": "jizue、toconoma、fox capture plan、rega、LITE"
+ },
+ {
+  "id": "2026-09-22-tricot",
+  "title": "KOYABU SONIC 2026",
+  "date": "2026-09-22",
+  "open": "9:30",
+  "start": "10:30",
+  "artist_ids": [
+   "tricot"
+  ],
+  "genre_tags": [
+   "math rock"
+  ],
+  "venue_id": "4-5-bf",
+  "price_adv": 12500,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://tricot-official.fanpla.jp/",
+  "source_url": "https://tricot-official.fanpla.jp/news/detail/80682",
+  "checked_date": "2026-10-27",
+  "note": "tricotの出演日（9月22日）はtricot公式サイトのニュースページで核实。開場・開演・会場・料金・当日ラインナップはぴあ関西版のEvent Data（主催発表）による。price_advは特割1日券・大人料金（中学生¥4,000、こども¥2,500、通し券あり）。音楽とお笑いのフェスのため、artistsには9月22日の音楽アクトのみを記載（芸人の出演も多数あり）。",
+  "lineup_text": "石崎ひゅーい、ZiDol、TOKYO No.1 SOUL SET、tricot、HALCALI、ホフディラン、吉本新喜劇ィズ、luv"
+ },
+ {
+  "id": "2026-10-03-lite",
+  "title": "Stiffslack presents eve of destruction vol.12",
+  "date": "2026-10-03",
+  "open": "18:00",
+  "start": "19:00",
+  "artist_ids": [
+   "lite"
+  ],
+  "genre_tags": [
+   "math rock",
+   "progressive rock"
+  ],
+  "venue_id": "stiffslack-venue",
+  "price_adv": 4500,
+  "price_door": 5300,
+  "drink_note": "ドリンク代別途（金額はLITE公式ページ未載）",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "http://lite-web.com/",
+  "source_url": "https://lite-web.com/shows/",
+  "checked_date": "2026-10-27",
+  "note": "LITE公式サイト公演情報による（イープラス公演ページへのリンク付き）。22歳以下料金¥2,800もあり。ドリンク代の金額はLITE公式ページ未載のためdrink_noteに金額なしで記載。",
+  "lineup_text": "LITE、Bone Us"
+ },
+ {
+  "id": "2026-10-04-toe",
+  "title": "街を嚥む、今宵の月 – HARVEST SPECIAL LIVE NIGHT WITH toe –",
+  "date": "2026-10-04",
+  "open": "17:00",
+  "start": "18:00",
+  "artist_ids": [
+   "toe"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "math rock"
+  ],
+  "venue_id": "zepp-namba",
+  "price_adv": 7700,
+  "price_door": null,
+  "drink_note": "ドリンク代別途",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.toe.st/",
+  "source_url": "https://sensa.jp/news/20260325-toe.html",
+  "checked_date": "2026-10-27",
+  "note": "SENSA（toe関連公式ニュース）で日程・会場・開場17:00／開演18:00を確認。料金は1Fスタンディング¥7,700／2F指定席¥8,800（税込、ドリンク代別途）で、price_advは1F料金。当日券価格は未掲載のためnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-10-11-toe",
+  "title": "街を嚥む、今宵の月 – HARVEST SPECIAL LIVE NIGHT WITH toe –",
+  "date": "2026-10-11",
+  "open": "17:00",
+  "start": "18:00",
+  "artist_ids": [
+   "toe"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "math rock"
+  ],
+  "venue_id": "zepp-haneda",
+  "price_adv": 7700,
+  "price_door": null,
+  "drink_note": "ドリンク代別途",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.toe.st/",
+  "source_url": "https://sensa.jp/news/20260325-toe.html",
+  "checked_date": "2026-10-27",
+  "note": "SENSA（toe関連公式ニュース）で日程・会場・開場17:00／開演18:00を確認。料金は1Fスタンディング¥7,700／2F指定席¥8,800（税込、ドリンク代別途）で、price_advは1F料金。当日券価格は未掲載のためnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-10-16-downy",
+  "title": "キツネの嫁入り 6th ALBUM「LIFE」release tour 〜東京編〜",
+  "date": "2026-10-16",
+  "open": "18:30",
+  "start": "19:00",
+  "artist_ids": [
+   "downy"
+  ],
+  "genre_tags": [
+   "post-rock"
+  ],
+  "venue_id": "era",
+  "price_adv": 3800,
+  "price_door": 4200,
+  "drink_note": "別途1ドリンク代（+1D）",
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.downy-web.com/",
+  "source_url": "https://p-vine.jp/news/20260819-120015",
+  "checked_date": "2026-10-27",
+  "note": "キツネの嫁入りの所属レーベルP-VINE公式ニュース（ツアー特設案内を掲載）で日程・会場・開場18:30／開演19:00・前売¥3,800／当日¥4,200（+1D）・出演（キツネの嫁入り／downy）を確認。LP先行発売公演。",
+  "lineup_text": "キツネの嫁入り、downy"
+ },
+ {
+  "id": "2026-10-16-people-in-the-box",
+  "title": "下北沢SHELTER 35th Anniversary \"One Epic Month\"",
+  "date": "2026-10-16",
+  "open": "18:30",
+  "start": "19:00",
+  "artist_ids": [
+   "people-in-the-box"
+  ],
+  "genre_tags": [
+   "post-rock",
+   "alternative rock"
+  ],
+  "venue_id": "shelter",
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://peopleinthebox.com/",
+  "source_url": "https://peopleinthebox.com/news",
+  "checked_date": "2026-10-27",
+  "note": "下北沢SHELTERの35周年企画『One Epic Month』の一環として行われたワンマン公演。バンド公式サイトのNewsで開場18:30/開演19:00を確認。料金は確認した公式ページ（バンド公式News、イープラスのSHELTER 35周年特設ページ）に記載がなかったためprice_advはnull。当日券価格・ドリンク条件も未確認のためnull。過去公演のためticket_status / ticket_urlはnull。",
+  "lineup_text": null
+ },
+ {
+  "id": "2026-10-20-envy",
+  "title": "The Argument Fest '26",
+  "date": "2026-10-20",
+  "open": "18:00",
+  "start": "18:30",
+  "artist_ids": [
+   "envy",
+   "mono"
+  ],
+  "genre_tags": [
+   "post-hardcore",
+   "screamo"
+  ],
+  "venue_id": "yogibo-holy-mountain-meta-valley-bf",
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.monoofjapan.com/",
+  "source_url": "http://www.monoofjapan.com/news.php",
+  "checked_date": "2026-10-27",
+  "note": "MONO公式サイトNEWS（2026-07-07掲載）で日程・会場表記（Yogibo Holy Mountain & Meta Valley）・開場18:00／開演18:30・陣容（envy／MONO／AMENRA／pageninetynine）を確認。料金は同NEWS未掲載のためnull。",
+  "lineup_text": "envy、MONO、AMENRA、pageninetynine"
+ },
+ {
+  "id": "2026-10-21-envy",
+  "title": "The Argument Fest '26",
+  "date": "2026-10-21",
+  "open": "17:00",
+  "start": "18:00",
+  "artist_ids": [
+   "envy",
+   "mono"
+  ],
+  "genre_tags": [
+   "post-hardcore",
+   "screamo"
+  ],
+  "venue_id": "diamond-hall",
+  "price_adv": null,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.monoofjapan.com/",
+  "source_url": "http://www.monoofjapan.com/news.php",
+  "checked_date": "2026-10-27",
+  "note": "MONO公式サイトNEWS（2026-07-07掲載）で日程・会場・開場17:00／開演18:00・陣容を確認。料金は同NEWS未掲載のためnull。",
+  "lineup_text": "envy、MONO、AMENRA、pageninetynine"
+ },
+ {
+  "id": "2026-10-25-envy",
+  "title": "THE ARGUMENT -Beginning to see the light-",
+  "date": "2026-10-25",
+  "open": null,
+  "start": null,
+  "artist_ids": [
+   "envy",
+   "mono",
+   "toe"
+  ],
+  "genre_tags": [
+   "post-hardcore",
+   "screamo"
+  ],
+  "venue_id": "spotify-o-east-spotify-o-west-bf",
+  "price_adv": 12900,
+  "price_door": null,
+  "drink_note": null,
+  "ticket_status": null,
+  "ticket_url": null,
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.monoofjapan.com/",
+  "source_url": "https://selebro.co.jp/argument/",
+  "checked_date": "2026-10-27",
+  "note": "主催SELEBRO公式特設サイトで日程・会場（Spotify O-EAST & O-WEST）・料金（一般¥12,900／学生¥7,900／VIP ¥25,000、price_advは一般料金）を確認。開場・開演は同サイト未掲載のためnull。陣容はMONO公式NEWS表記「envy、MONO & more」に、toe公式shows索引で確認したtoeの同日出演を加えたもの。全陣容は公式ページ未掲載。toe公式サイトは https://www.toe.st/ 。",
+  "lineup_text": null
  }
 ]

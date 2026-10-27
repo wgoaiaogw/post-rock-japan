@@ -36,6 +36,7 @@ loadDB().then(() => {
     <h1>${esc(v.name)}</h1>
     <div class="sub">${esc(v.area || '')}</div>
     <table class="info">${rows}</table>
+    ${v.source_note ? `<p class="src">会場情報の出典：${esc(v.source_note)}</p>` : ''}
     <h2 style="font-size:17px">この会場の今後の公演</h2>
     <div id="evlist"></div>
     <h2 style="font-size:17px">この会場の過去の公演</h2>

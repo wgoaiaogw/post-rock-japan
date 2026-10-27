@@ -32,6 +32,7 @@ loadDB().then(() => {
   const rows = [
     ['日時', `${ev.date}（${wd}）　OPEN ${esc(ev.open || '—')} / START ${esc(ev.start || '—')}`],
     ['出演', artistLinks(ev)],
+    ev.lineup_text ? ['全出演', esc(ev.lineup_text)] : null,
     ['ジャンル', (ev.genre_tags || []).join(' / ')],
     ['会場', v ? `<a href="venue.html?id=${encodeURIComponent(v.id)}">${esc(v.name)}</a>（${esc(v.area)}）` : '—'],
     ['料金', `前売 ${yen(ev.price_adv)}${ev.price_door != null ? ` / 当日 ${yen(ev.price_door)}` : ''}${ev.drink_note ? `　※${esc(ev.drink_note)}` : ''}`],
