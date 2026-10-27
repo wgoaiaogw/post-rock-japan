@@ -1,0 +1,277 @@
+[
+ {
+  "id": "2026-11-03-fox-gates7",
+  "title": "RE:FRAME -15th Anniversary tour-",
+  "date": "2026-11-03",
+  "open": "17:00",
+  "start": "17:30",
+  "artist_ids": [
+   "fox-capture-plan"
+  ],
+  "genre_tags": [
+   "instrumental",
+   "jazz"
+  ],
+  "venue_id": "gates7",
+  "price_adv": 6000,
+  "price_door": 6500,
+  "drink_note": "ドリンク代別途（D別）",
+  "ticket_status": "発売中",
+  "ticket_url": "https://eplus.jp/foxcaptureplan/",
+  "ticket_info": "U-23 ¥4,000 あり（ツアー公式発表）",
+  "organizer": null,
+  "official_url": "https://foxcaptureplan.com/",
+  "source_url": "https://eplus.jp/foxcaptureplan/",
+  "checked_date": "2026-10-27",
+  "note": "日付・会場・開演時刻はe+公式アーティストページで確認。開場時刻と料金（前売¥6,000／当日¥6,500／U23¥4,000・D別）はツアー全体の公式発表表記に基づく。Gate's7公式サイトのスケジュールにも11月3日公演の掲載を確認。"
+ },
+ {
+  "id": "2026-11-05-mouse-oeast",
+  "title": "20th Anniversary & New EP “衝動の肖像 Portrait of Impulse” Release Live",
+  "date": "2026-11-05",
+  "open": "18:00",
+  "start": "19:00",
+  "artist_ids": [
+   "mouse-on-the-keys",
+   "toe",
+   "phase-echo"
+  ],
+  "genre_tags": [
+   "instrumental",
+   "post-rock",
+   "math rock"
+  ],
+  "venue_id": "spotify-o-east",
+  "price_adv": 7000,
+  "price_door": null,
+  "drink_note": "1ドリンクチャージ別",
+  "ticket_status": "一般発売中",
+  "ticket_url": "https://eplus.jp/sf/detail/0214530001-P0030039P021001",
+  "ticket_info": "学割 ¥3,000 あり（入場時、身分証の提示が必要）。一般販売は e+ にて 11月4日まで",
+  "organizer": null,
+  "official_url": "https://www.mouseonthekeys.net/",
+  "source_url": "https://shibuya-o.com/east/schedule/mouse-on-the-keys-20th-anniversary-new-ep-%e8%a1%9d%e5%8b%95%e3%81%a8%e8%82%96%e5%83%8f-portrait-of-impulse-release-live/",
+  "checked_date": "2026-10-27",
+  "note": "会場（Spotify O-EAST）公式公演ページで開場・開演・前売料金・出演者を確認。前売は学割¥3,000もあり（入場時要身分証提示）。出演表記は会場公式LINE UP（mouse on the keys／toe／phase echo）。一般販売はe+にて2026年10月21日〜11月4日。当日券価格は公式页未载。"
+ },
+ {
+  "id": "2026-11-08-fox-janus",
+  "title": "RE:FRAME -15th Anniversary tour-",
+  "date": "2026-11-08",
+  "open": "17:00",
+  "start": "17:30",
+  "artist_ids": [
+   "fox-capture-plan"
+  ],
+  "genre_tags": [
+   "instrumental",
+   "jazz"
+  ],
+  "venue_id": "music-club-janus",
+  "price_adv": 6000,
+  "price_door": 6500,
+  "drink_note": "ドリンク代別途（D別）",
+  "ticket_status": "発売中",
+  "ticket_url": "https://eplus.jp/foxcaptureplan/",
+  "ticket_info": "U-23 ¥4,000 あり（ツアー公式発表）",
+  "organizer": null,
+  "official_url": "https://foxcaptureplan.com/",
+  "source_url": "https://eplus.jp/foxcaptureplan/",
+  "checked_date": "2026-10-27",
+  "note": "日付・会場・開演時刻はe+公式アーティストページで確認。料金（一般¥6,000／U23¥4,000・ドリンク代別途）と発売中ステータスはチケットぴあ関西版の公演情報（Pコード331-370）でも確認。開場時刻・当日料金はツアー全体の公式発表表記に基づく。"
+ },
+ {
+  "id": "2026-11-18-jizue-upset",
+  "title": "jizue 20th Anniversary Album “orbis” Release One Man Live Tour",
+  "date": "2026-11-18",
+  "open": "18:30",
+  "start": "19:00",
+  "artist_ids": [
+   "jizue"
+  ],
+  "genre_tags": [
+   "instrumental",
+   "jazz-rock"
+  ],
+  "venue_id": "club-upset",
+  "price_adv": 5000,
+  "price_door": null,
+  "drink_note": "別途ドリンク代が必要となります",
+  "ticket_status": "一般販売中",
+  "ticket_url": "https://eplus.jp/jizue/",
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.jizue.com/",
+  "source_url": "https://www.jizue.com/schedule/9834",
+  "checked_date": "2026-10-27",
+  "note": "バンド公式サイトの公演詳細ページで全項目を確認。サポート：Dr 橋本現輝、Pf Rina Kohmoto（EYRIE）。一般販売はe+／ローチケ／ぴあ。当日券価格は公式页未载。"
+ },
+ {
+  "id": "2026-11-22-jizue-conpass",
+  "title": "jizue 20th Anniversary Album “orbis” Release One Man Live Tour",
+  "date": "2026-11-22",
+  "open": "16:30",
+  "start": "17:00",
+  "artist_ids": [
+   "jizue"
+  ],
+  "genre_tags": [
+   "instrumental",
+   "jazz-rock"
+  ],
+  "venue_id": "live-space-conpass",
+  "price_adv": 5000,
+  "price_door": null,
+  "drink_note": "別途ドリンク代が必要となります",
+  "ticket_status": "一般販売中",
+  "ticket_url": "https://eplus.jp/jizue/",
+  "ticket_info": null,
+  "organizer": null,
+  "official_url": "https://www.jizue.com/",
+  "source_url": "https://www.jizue.com/schedule/9841",
+  "checked_date": "2026-10-27",
+  "note": "バンド公式サイトの公演詳細ページで全項目を確認。サポート：Dr 橋本現輝、Pf Rina Kohmoto（EYRIE）。一般販売はe+。当日券価格は公式页未载。"
+ },
+ {
+  "id": "2026-11-28-fox-jammin",
+  "title": "RE:FRAME -15th Anniversary tour-",
+  "date": "2026-11-28",
+  "open": "17:00",
+  "start": "17:30",
+  "artist_ids": [
+   "fox-capture-plan"
+  ],
+  "genre_tags": [
+   "instrumental",
+   "jazz"
+  ],
+  "venue_id": "nagoya-jammin",
+  "price_adv": 6000,
+  "price_door": 6500,
+  "drink_note": "ドリンク代別途（D別）",
+  "ticket_status": "発売中",
+  "ticket_url": "https://eplus.jp/foxcaptureplan/",
+  "ticket_info": "U-23 ¥4,000 あり（ツアー公式発表）",
+  "organizer": null,
+  "official_url": "https://foxcaptureplan.com/",
+  "source_url": "https://eplus.jp/foxcaptureplan/",
+  "checked_date": "2026-10-27",
+  "note": "日付・会場・開演時刻はe+公式アーティストページで確認。開場時刻と料金（前売¥6,000／当日¥6,500／U23¥4,000・D別）はツアー全体の公式発表表記に基づく。"
+ },
+ {
+  "id": "2026-11-28-mudy-diamond-day1",
+  "title": "mudy on the 昨晩20周年企画最終公演&4thフルアルバムリリースライブ『ALL SUPER MAXXXXX!!』 DAY1",
+  "date": "2026-11-28",
+  "open": "13:30",
+  "start": "14:30",
+  "artist_ids": [
+   "mudy-on-the-sakuban",
+   "lostage",
+   "enth",
+   "domico",
+   "kotori",
+   "the-novembers"
+  ],
+  "genre_tags": [
+   "instrumental",
+   "math rock",
+   "emo"
+  ],
+  "venue_id": "diamond-hall",
+  "price_adv": 6500,
+  "price_door": null,
+  "drink_note": "ドリンク代別途（税込・ドリンク別）",
+  "ticket_status": "発売中",
+  "ticket_url": "https://eplus.jp/all-super-maxxxxx/",
+  "ticket_info": "1日券 ¥6,500／2日通し券 ¥12,000（残りわずか・別途2ドリンク代必要）",
+  "organizer": null,
+  "official_url": "https://sakuban.themedia.jp/",
+  "source_url": "https://eplus.jp/all-super-maxxxxx/",
+  "checked_date": "2026-10-27",
+  "note": "開場・開演・会場はe+公式公演ページで確認。料金は1日券¥6,500（2日通し券¥12,000は残りわずか・別途2ドリンク代必要）。出演日割りは主催発表に基づく。当日券価格は公式页未载。"
+ },
+ {
+  "id": "2026-11-29-mudy-diamond-day2",
+  "title": "mudy on the 昨晩20周年企画最終公演&4thフルアルバムリリースライブ『ALL SUPER MAXXXXX!!』 DAY2",
+  "date": "2026-11-29",
+  "open": "13:30",
+  "start": "14:30",
+  "artist_ids": [
+   "mudy-on-the-sakuban",
+   "zazen-boys",
+   "envy",
+   "cinema-staff",
+   "the-cabs",
+   "rusantiman"
+  ],
+  "genre_tags": [
+   "instrumental",
+   "math rock",
+   "post-hardcore"
+  ],
+  "venue_id": "diamond-hall",
+  "price_adv": 6500,
+  "price_door": null,
+  "drink_note": "ドリンク代別途（税込・ドリンク別）",
+  "ticket_status": "1日券は予定枚数終了（SOLD OUT）",
+  "ticket_url": "https://eplus.jp/all-super-maxxxxx/",
+  "ticket_info": "1日券は予定枚数終了。2日通し券 ¥12,000（残りわずか・別途2ドリンク代必要）",
+  "organizer": null,
+  "official_url": "https://sakuban.themedia.jp/",
+  "source_url": "https://eplus.jp/all-super-maxxxxx/",
+  "checked_date": "2026-10-27",
+  "note": "29日1日券の完売はバンド公式サイトのニュース（2026年9月28日付）で確認。2日通し券¥12,000は残りわずか（別途2ドリンク代必要）。開場・開演はe+公式公演ページで確認。当日券価格は公式页未载。"
+ },
+ {
+  "id": "2026-12-26-fox-hulic",
+  "title": "RE:FRAME -15th Anniversary Finale-",
+  "date": "2026-12-26",
+  "open": "17:00",
+  "start": "18:00",
+  "artist_ids": [
+   "fox-capture-plan"
+  ],
+  "genre_tags": [
+   "instrumental",
+   "jazz"
+  ],
+  "venue_id": "hulic-hall-tokyo",
+  "price_adv": 7000,
+  "price_door": null,
+  "drink_note": "別途ドリンク代が必要",
+  "ticket_status": "一般発売中",
+  "ticket_url": "https://eplus.jp/foxcaptureplan/",
+  "ticket_info": "指定席 ¥7,000／指定席 U-23 ¥5,000",
+  "organizer": null,
+  "official_url": "https://foxcaptureplan.com/",
+  "source_url": "https://lp.p.pia.jp/event/music/466528/index.html",
+  "checked_date": "2026-10-27",
+  "note": "料金はチケットぴあ公式公演ページで確認（指定席¥7,000／指定席U-23¥5,000、別途ドリンク代が必要）。日付・開演18:00はe+公式アーティストページでも確認。開場17:00は公式発表表記に基づく。当日券価格は公式页未载。"
+ },
+ {
+  "id": "2027-02-07-jizue-otemachi",
+  "title": "jizue 20th anniversary final jizue with string quartet Special Live",
+  "date": "2027-02-07",
+  "open": "16:00",
+  "start": "17:00",
+  "artist_ids": [
+   "jizue"
+  ],
+  "genre_tags": [
+   "instrumental",
+   "jazz-rock"
+  ],
+  "venue_id": "otemachi-mitsui-hall",
+  "price_adv": 8000,
+  "price_door": null,
+  "drink_note": "ドリンク代別",
+  "ticket_status": "発売中",
+  "ticket_url": "https://eplus.jp/jizue/",
+  "ticket_info": "全席指定 ¥8,000",
+  "organizer": null,
+  "official_url": "https://www.jizue.com/",
+  "source_url": "https://www.jizue.com/schedule/9932",
+  "checked_date": "2026-10-27",
+  "note": "バンド公式サイトの公演詳細ページで全項目を確認。全席指定¥8,000。一般販売は2026年10月17日より開始（e+／ぴあ／ローチケ）。出演：Guitar 井上典政、Bass 山田剛、Piano Rina Kohmoto（EYRIE）、Drums 井上司（fox capture plan）、弦楽四重奏。当日券価格は公式页未载。"
+ }
+]

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>アーティスト｜POSTROCK JAPAN</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site">
+  <a class="logo" href="index.html">POSTROCK <span>JAPAN</span></a>
+  <div class="tag">日本のポストロック公演情報（公式情報源ベース）</div>
+  <nav class="main">
+    <a href="index.html">公演一覧</a>
+    <a href="artists.html">アーティスト</a>
+    <a href="venues.html">会場</a>
+  </nav>
+</header>
+<main id="main"><p class="empty">読み込み中…</p></main>
+<footer class="site">POSTROCK JAPAN — 公演情報は各公式発表に基づきます。最新情報は公式サイトでご確認ください。</footer>
+<script src="assets/app.js"></script>
+<script>
+loadDB().then(() => {
+  const a = artistById(qs.get('id'));
+  const el = document.getElementById('main');
+  if (!a) { el.innerHTML = '<p class="empty">アーティストが見つかりませんでした。</p>'; return; }
+  document.title = a.name + '｜POSTROCK JAPAN';
+  const mine = upcomingEvents(ev => (ev.artist_ids || []).includes(a.id));
+  el.innerHTML = `
+    <h1>${esc(a.name)}</h1>
+    <div class="sub">${esc(a.country || '')} ${(a.genre_tags || []).length ? '／ ' + esc(a.genre_tags.join(' / ')) : ''}</div>
+    ${a.intro ? `<p>${esc(a.intro)}</p>` : ''}
+    <div class="card">
+      ${a.official_url ? `公式サイト：<a href="${esc(a.official_url)}" target="_blank" rel="noopener">${esc(a.official_url)}</a><br>` : ''}
+      ${a.x_url ? `X：<a href="${esc(a.x_url)}" target="_blank" rel="noopener">${esc(a.x_url)}</a>` : ''}
+    </div>
+    <h2 style="font-size:17px">今後の公演</h2>
+    <div id="evlist"></div>`;
+  renderEventList(document.getElementById('evlist'), mine);
+});
+</script>
+</body>
+</html>

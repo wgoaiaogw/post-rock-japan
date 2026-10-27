@@ -1,0 +1,83 @@
+[
+ {
+  "id": "spotify-o-east",
+  "name": "Spotify O-EAST",
+  "area": "東京都",
+  "address": "〒150-0043 東京都渋谷区道玄坂2-14-8（O-EASTビル2F）",
+  "access": "渋谷駅",
+  "capacity": "約1,300（スタンディング時）※会場紹介メディアによる数値",
+  "official_url": "https://shibuya-o.com/east/"
+ },
+ {
+  "id": "gates7",
+  "name": "Gate's7",
+  "area": "福岡県",
+  "address": "〒810-0801 福岡県福岡市博多区中洲3-7-24 GATE'Sビル7F",
+  "access": "中洲川端駅（4番出口より地下直結）",
+  "capacity": null,
+  "official_url": "http://www.gates7.com/"
+ },
+ {
+  "id": "music-club-janus",
+  "name": "Music Club JANUS",
+  "area": "大阪府",
+  "address": "〒542-0083 大阪府大阪市中央区東心斎橋2-4-30 5F",
+  "access": "心斎橋駅 徒歩5分／長堀橋駅 徒歩3分",
+  "capacity": "400（スタンディング）",
+  "official_url": "https://janusosaka.com/"
+ },
+ {
+  "id": "club-upset",
+  "name": "CLUB UPSET",
+  "area": "愛知県",
+  "address": "〒464-0067 愛知県名古屋市千種区池下1-4-23 アミュゾン池下ビル5F",
+  "access": "池下駅（地下鉄東山線）1番出口 徒歩1分",
+  "capacity": null,
+  "official_url": "http://www.club-upset.com/"
+ },
+ {
+  "id": "live-space-conpass",
+  "name": "LIVE SPACE CONPASS",
+  "area": "大阪府",
+  "address": "〒542-0083 大阪府大阪市中央区東心斎橋1-12-20 心斎橋ダイワビルB1F",
+  "access": "長堀橋駅／心斎橋駅",
+  "capacity": "約200 ※会場紹介サイトによる数値",
+  "official_url": "http://www.conpass.jp/"
+ },
+ {
+  "id": "nagoya-jammin",
+  "name": "名古屋JAMMIN'",
+  "area": "愛知県",
+  "address": "〒460-0008 愛知県名古屋市中区栄2-7-1 東洋パーキングビル1F",
+  "access": "伏見駅（地下鉄東山線・鶴舞線）5番出口 徒歩3分",
+  "capacity": null,
+  "official_url": null
+ },
+ {
+  "id": "diamond-hall",
+  "name": "ダイアモンドホール",
+  "area": "愛知県",
+  "address": "〒460-0007 愛知県名古屋市中区新栄2-1-9 雲竜FLEXビル西館5F",
+  "access": "新栄町駅（地下鉄東山線）2番出口 徒歩2分",
+  "capacity": "約1,014（スタンディング時）※会場紹介等による数値",
+  "official_url": "http://diamond.sflag.co.jp/"
+ },
+ {
+  "id": "hulic-hall-tokyo",
+  "name": "ヒューリックホール東京",
+  "area": "東京都",
+  "address": "〒100-0006 東京都千代田区有楽町2-5-1 有楽町マリオン11F",
+  "access": "JR有楽町駅 徒歩3分／銀座駅 C4出口 徒歩1分／日比谷駅 A0出口直結",
+  "capacity": "886（固定席）",
+  "official_url": "https://hulic-theater.com/"
+ },
+ {
+  "id": "otemachi-mitsui-hall",
+  "name": "大手町三井ホール",
+  "area": "東京都",
+  "address": "〒100-0004 東京都千代田区大手町1-2-1 Otemachi One 3F",
+  "access": "大手町駅直結",
+  "capacity": null,
+  "official_url": "https://www.otemachihall.jp/"
+ }
+]

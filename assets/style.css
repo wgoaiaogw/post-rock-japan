@@ -1,0 +1,42 @@
+:root{
+  --bg:#101014; --panel:#181820; --line:#2a2a35; --text:#e8e8ec; --sub:#9a9aa8;
+  --accent:#e8c15a; --badge:#2e4a3a; --badge-end:#4a2e2e;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:"Hiragino Kaku Gothic ProN","Hiragino Sans","Noto Sans JP",system-ui,sans-serif;line-height:1.6}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{border-bottom:1px solid var(--line);padding:18px 16px 12px}
+header.site .logo{font-size:22px;font-weight:800;letter-spacing:.08em;color:var(--text)}
+header.site .logo span{color:var(--accent)}
+header.site .tag{color:var(--sub);font-size:12px;margin-top:2px}
+nav.main{display:flex;gap:16px;margin-top:10px;font-size:14px}
+nav.main a{color:var(--text)}
+main{max-width:920px;margin:0 auto;padding:16px}
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 16px}
+.filters select{background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:6px;padding:6px 8px;font-size:14px}
+.month-head{font-size:15px;font-weight:700;margin:22px 0 8px;color:var(--accent);letter-spacing:.05em}
+.ev{display:flex;gap:14px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;margin-bottom:10px}
+.ev .date{min-width:64px;text-align:center}
+.ev .date .d{font-size:22px;font-weight:800}
+.ev .date .w{font-size:12px;color:var(--sub)}
+.ev .body{flex:1;min-width:0}
+.ev .title{font-weight:700;font-size:16px}
+.ev .meta{color:var(--sub);font-size:13px;margin-top:2px}
+.ev .price{font-size:13px;margin-top:2px}
+.badge{display:inline-block;font-size:11px;padding:1px 8px;border-radius:99px;background:var(--badge);color:#cfe8d8;vertical-align:middle}
+.badge.end{background:var(--badge-end);color:#e8cfcf}
+.badge.pre{background:#4a4230;color:#e8dcbb}
+table.info{border-collapse:collapse;width:100%;margin:12px 0}
+table.info th,table.info td{border:1px solid var(--line);padding:8px 10px;font-size:14px;text-align:left;vertical-align:top}
+table.info th{background:var(--panel);width:110px;color:var(--sub);font-weight:600}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px;margin:14px 0}
+.btn{display:inline-block;background:var(--accent);color:#141414;font-weight:700;border-radius:8px;padding:10px 18px}
+.btn:hover{text-decoration:none;opacity:.9}
+h1{font-size:22px;margin:8px 0 4px}
+.sub{color:var(--sub);font-size:13px}
+.list-simple{list-style:none;padding:0}
+.list-simple li{padding:10px 0;border-bottom:1px solid var(--line)}
+footer.site{border-top:1px solid var(--line);color:var(--sub);font-size:12px;padding:16px;text-align:center;margin-top:32px}
+.empty{color:var(--sub);padding:24px 0}
+.src{font-size:12px;color:var(--sub);margin-top:16px;word-break:break-all}
