@@ -14,6 +14,7 @@
     <a href="index.html">公演一覧</a>
     <a href="artists.html">アーティスト</a>
     <a href="venues.html">会場</a>
+    <a href="archive.html">アーカイブ</a>
   </nav>
 </header>
 <main id="main"><p class="empty">読み込み中…</p></main>
@@ -36,8 +37,11 @@ loadDB().then(() => {
     <div class="sub">${esc(v.area || '')}</div>
     <table class="info">${rows}</table>
     <h2 style="font-size:17px">この会場の今後の公演</h2>
-    <div id="evlist"></div>`;
+    <div id="evlist"></div>
+    <h2 style="font-size:17px">この会場の過去の公演</h2>
+    <div id="pastlist"></div>`;
   renderEventList(document.getElementById('evlist'), upcomingEvents(ev => ev.venue_id === v.id));
+  renderEventList(document.getElementById('pastlist'), pastEvents(ev => ev.venue_id === v.id));
 });
 </script>
 </body>

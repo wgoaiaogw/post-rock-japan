@@ -14,6 +14,7 @@ const venueById = id => DB.venues.find(v => v.id === id);
 const yen = n => (n == null ? '—' : '¥' + Number(n).toLocaleString('ja-JP'));
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 
+function isPast(ev) { const t = new Date(); t.setHours(0,0,0,0); return new Date(ev.date + 'T00:00:00') < t; }
 function badgeClass(status) {
   if (!status) return 'pre';
   if (/終了|完売|終了/.test(status)) return 'end';
@@ -34,11 +35,18 @@ function eventCard(ev) {
     <div class="date"><div class="d">${d.getDate()}</div><div class="w">${d.getMonth() + 1}月・${wd}</div></div>
     <div class="body">
       <div class="title"><a href="event.html?id=${encodeURIComponent(ev.id)}">${esc(ev.title)}</a>
-      ${ev.ticket_status ? `<span class="badge ${badgeClass(ev.ticket_status)}">${esc(ev.ticket_status)}</span>` : ''}</div>
+      ${isPast(ev) ? '<span class="badge end">終了</span>' : (ev.ticket_status ? `<span class="badge ${badgeClass(ev.ticket_status)}">${esc(ev.ticket_status)}</span>` : '')}</div>
       <div class="meta">${artistLinks(ev)}</div>
       <div class="meta">${v ? `<a href="venue.html?id=${encodeURIComponent(v.id)}">${esc(v.name)}</a>（${esc(v.area)}）` : ''}</div>
       <div class="price">OPEN ${esc(ev.open || '—')} / START ${esc(ev.start || '—')}　前売 ${yen(ev.price_adv)}${ev.price_door != null ? ` / 当日 ${yen(ev.price_door)}` : ''}</div>
     </div></article>`;
+}
+function pastEvents(filterFn) {
+  const today = new Date(); today.setHours(0, 0, 0, 0);
+  return DB.events
+    .filter(ev => new Date(ev.date + 'T00:00:00') < today)
+    .filter(filterFn || (() => true))
+    .sort((a, b) => b.date.localeCompare(a.date) || String(b.start || '').localeCompare(String(a.start || '')));
 }
 function upcomingEvents(filterFn) {
   const today = new Date(); today.setHours(0, 0, 0, 0);

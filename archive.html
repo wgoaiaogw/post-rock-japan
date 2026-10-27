@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>公演アーカイブ｜POSTROCK JAPAN</title>
+<meta name="description" content="POSTROCK JAPANに掲載した終了済み公演のアーカイブ。">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site">
+  <a class="logo" href="index.html">POSTROCK <span>JAPAN</span></a>
+  <div class="tag">日本のポストロック公演情報（公式情報源ベース）</div>
+  <nav class="main">
+    <a href="index.html">公演一覧</a>
+    <a href="artists.html">アーティスト</a>
+    <a href="venues.html">会場</a>
+    <a href="archive.html">アーカイブ</a>
+  </nav>
+</header>
+<main>
+  <h1>公演アーカイブ</h1>
+  <p class="sub">終了した公演の記録です。掲載情報は確認日時点の公式発表に基づきます。</p>
+  <div class="filters">
+    <select id="f-month"><option value="">すべての月</option></select>
+    <select id="f-area"><option value="">すべての地域</option></select>
+    <select id="f-genre"><option value="">すべてのジャンル</option></select>
+  </div>
+  <div id="list"></div>
+</main>
+<footer class="site">POSTROCK JAPAN — 公演情報は各公式発表に基づきます。最新情報は公式サイトでご確認ください。</footer>
+<script src="assets/app.js"></script>
+<script>
+loadDB().then(() => {
+  const past = pastEvents();
+  const months = [...new Set(past.map(e => e.date.slice(0, 7)))].sort().reverse();
+  const areas = [...new Set(DB.venues.map(v => v.area))].sort();
+  const genres = [...new Set(DB.events.flatMap(e => e.genre_tags || []))].sort();
+  const fm = document.getElementById('f-month'), fa = document.getElementById('f-area'), fg = document.getElementById('f-genre');
+  months.forEach(m => fm.insertAdjacentHTML('beforeend', `<option value="${m}">${m.replace('-', '年')}月</option>`));
+  areas.forEach(a => fa.insertAdjacentHTML('beforeend', `<option>${a}</option>`));
+  genres.forEach(g => fg.insertAdjacentHTML('beforeend', `<option>${g}</option>`));
+  const draw = () => renderEventList(document.getElementById('list'), pastEvents(ev => {
+    const v = venueById(ev.venue_id);
+    return (!fm.value || ev.date.startsWith(fm.value))
+      && (!fa.value || (v && v.area === fa.value))
+      && (!fg.value || (ev.genre_tags || []).includes(fg.value));
+  }));
+  [fm, fa, fg].forEach(s => s.addEventListener('change', draw));
+  draw();
+});
+</script>
+</body>
+</html>

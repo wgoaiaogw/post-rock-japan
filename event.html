@@ -14,6 +14,7 @@
     <a href="index.html">公演一覧</a>
     <a href="artists.html">アーティスト</a>
     <a href="venues.html">会場</a>
+    <a href="archive.html">アーカイブ</a>
   </nav>
 </header>
 <main id="main"><p class="empty">読み込み中…</p></main>
@@ -44,7 +45,7 @@ loadDB().then(() => {
     <div class="card">
       <div>チケット：${ev.ticket_status ? `<span class="badge ${badgeClass(ev.ticket_status)}">${esc(ev.ticket_status)}</span>` : '—'}</div>
       ${ev.ticket_info ? `<div class="sub" style="margin-top:6px">${esc(ev.ticket_info)}</div>` : ''}
-      <div style="margin-top:12px">${ev.ticket_url ? `<a class="btn" href="${esc(ev.ticket_url)}" target="_blank" rel="noopener">チケットを買う / 詳細</a>` : ''}</div>
+      <div style="margin-top:12px">${isPast(ev) ? '<span class="sub">この公演は終了しました。</span>' : (ev.ticket_url ? `<a class="btn" href="${esc(ev.ticket_url)}" target="_blank" rel="noopener">チケットを買う / 詳細</a>` : '')}</div>
     </div>
     ${v ? `<div class="card"><strong>会場</strong><br><a href="venue.html?id=${encodeURIComponent(v.id)}">${esc(v.name)}</a><br>
       <span class="sub">${esc(v.address || '')}${v.access ? '／' + esc(v.access) : ''}${v.capacity ? '／キャパ ' + esc(v.capacity) : ''}</span></div>` : ''}
