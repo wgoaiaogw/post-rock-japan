@@ -34,8 +34,8 @@
 loadDB().then(() => {
   const past = pastEvents();
   const months = [...new Set(past.map(e => e.date.slice(0, 7)))].sort().reverse();
-  const areas = [...new Set(DB.venues.map(v => v.area))].sort();
-  const genres = [...new Set(DB.events.flatMap(e => e.genre_tags || []))].sort();
+  const areas = [...new Set(past.map(e => { const v = venueById(e.venue_id); return v ? v.area : null; }).filter(Boolean))].sort();
+  const genres = [...new Set(past.flatMap(e => e.genre_tags || []))].sort();
   const fm = document.getElementById('f-month'), fa = document.getElementById('f-area'), fg = document.getElementById('f-genre');
   months.forEach(m => fm.insertAdjacentHTML('beforeend', `<option value="${m}">${m.replace('-', '年')}月</option>`));
   areas.forEach(a => fa.insertAdjacentHTML('beforeend', `<option>${a}</option>`));
